@@ -1,5 +1,5 @@
-from bs4 import BeautifulSoup
-import requests
+from bs4 import BeautifulSoup    #dependancies
+import requests                  #dependancies
 import csv
 import re
 import json
