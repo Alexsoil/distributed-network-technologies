@@ -45,12 +45,15 @@ def Temporal_csv_Record():
         csvwriter.writerow(['Scientist', 'Link'])
         csvwriter.writerows(temp_table_of_scientists)
 
-
+#function that parses the scientists CSV and opens all the links fetching info from their bio tables about Awards and Alma Mater. Then saves it in a JSON file.
 def UpdateFinalRecord():
 
     awards_Record = []
     alma_mater_Record = []
     list_of_dictionaries = []
+    has_no_table = []
+    has_no_awards = []
+    has_no_alma = []
 
     with open(smallTempCSV, 'r') as names_links:
         scientists_links = csv.reader(names_links, delimiter= ',')
@@ -61,35 +64,67 @@ def UpdateFinalRecord():
             if line_count == 0:
                 line_count =+ 1
                 continue
-            
+
+            #delete the contents of the lists for the new iteration
+            awards_Record.clear()
+            alma_mater_Record.clear()
+
             curr_url = current_scientist[1]     #current scientist's url
             curr_name = current_scientist[0]    #current scientist's name
 
             result = requests.get(curr_url)
             doc = BeautifulSoup(result.text, "html.parser")
 
-            #specify the desired position in the soup tree, that of the info table.
-            pos = doc.find(class_ = 'infobox biography vcard').tbody
+            if doc.find(class_ = 'infobox'):
+                
+                #specify the desired position in the soup tree, that of the info table.
+                pos = doc.find(class_ = 'infobox').tbody
+
+                #handle unexpected errors as exceptions
+                try:
+                    if pos.find('th', string= re.compile('Alma*')):
+                        alma_mater = pos.find('th', string= re.compile('Alma*')).next_sibling.find_all('a')
+                        #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
+                        for i in alma_mater:
+                            try:        #if there's a link with no title, throw no errors
+                                alma_mater_Record.append(i["title"])
+                            except:
+                                pass
+                    elif pos.find('th', string= re.compile('Education*')):
+                        alma_mater = pos.find('th', string= re.compile('Education*')).next_sibling.find_all('a')
+                        #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
+                        for i in alma_mater:
+                            try:        #if there's a link with no title, throw no errors
+                                alma_mater_Record.append(i["title"])
+                            except:
+                                pass
+                    else:
+                        has_no_alma.append([curr_name, curr_url])
+                        print("\t\t" + curr_name + ' has no alma mater record')
 
 
-            try:
-                #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
-                alma_mater = pos.find('th', text= re.compile('Alma*')).next_sibling.ul.find_all('li')
-                for i in alma_mater:
-                    alma_mater_Record.append(i.a["title"])
-            except:
-                print(curr_name + " - alma -")
-                pass
+                    if pos.find('th', text= 'Awards'):
+                        #scope in the awards section of the table and find all the listed awards. Afterwards, iterate through them and capture all titles.
+                        awards = pos.find('th', text= 'Awards').next_sibling.find_all('a')
+                        for i in awards:
+                            try:
+                                awards_Record.append(i['title'])
+                            except:
+                                pass
+                    else:
+                        has_no_awards.append([curr_name, curr_url])
+                        print("\t\t" + curr_name + ' has no award record')
+                    
+                    #success check for the current scientist
+                    print("All good with " + curr_name)
 
+                except:
+                    print("\t\tWith " + curr_name + " occured an error!!")
 
-            try:
-                #scope in the awards section of the table and find all the listed awards. Afterwards, iterate through them and capture all titles.
-                awards = pos.find('th', text= 'Awards').next_sibling.ul.find_all('li')
-                for i in awards:
-                    awards_Record.append(i.a['title'])
-            except:
-                print(curr_name + ' - awards')
-                pass
+            else:
+                has_no_table.append([curr_name, curr_url])
+                print(curr_name + ' has no info table')
+
 
             #Create a temporal dictionary to add it to the list for saving purposes.
             temp_dict = {
@@ -100,13 +135,21 @@ def UpdateFinalRecord():
             #Add the fetched info to the list as a dictionary for easier cenverting to json object.
             list_of_dictionaries.append(temp_dict)
 
-            #delete the contents of the lists for the new iteration
-            awards_Record = []
-            alma_mater_Record = []
 
-    print(list_of_dictionaries)
-    with open("Final_Record", 'w') as outfile:
-        json.dumps(list_of_dictionaries, outfile)
+    print(list_of_dictionaries[:10])
+    
+    with open("No_Awards.csv", 'w') as noAwards:
+        writer = csv.writer(noAwards)
+        writer.writerow(['Scientist', 'Link'])
+        writer.writerows(has_no_awards)
+
+    with open("No_Alma_Mater.csv", 'w') as noAlma:
+        writer = csv.writer(noAlma)
+        writer.writerow(['Scientist', 'Link'])
+        writer.writerows(has_no_alma)
+    
+    with open("Final_Record.json", 'w') as outfile:
+        json.dump(list_of_dictionaries, outfile)
 
 
 
@@ -114,34 +157,44 @@ def test():
     awards_Record = []
     alma_mater_Record = []
     
-    result = requests.get("https://en.wikipedia.org/wiki/Manindra_Agrawal")
+    result = requests.get("https://en.wikipedia.org/wiki/Lenore_Blum")
     doc = BeautifulSoup(result.text, "html.parser")
 
     #specify the desired position in the soup tree, that of the info table.
-    pos = doc.find(class_ = 'infobox biography vcard').tbody
-    test = pos.find('th', string = re.compile('Awards')).next_sibling.stripped_strings
+    if doc.find(class_ = 'infobox'):
+        pos = doc.find(class_ = 'infobox').tbody
+    #test = pos.find('th', string = re.compile('Awards')).next_sibling.stripped_strings
+
+        try:
+            if pos.find('th', string= re.compile('Alma*')):
+                #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
+                alma_mater = pos.find('th', string= re.compile('Alma*')).next_sibling.find_all('a')
+                for i in alma_mater:
+                    try:
+                        alma_mater_Record.append(i["title"])
+                    except:
+                        pass
+            else:
+                print("David P. Anderson" + " - alma -")
 
 
-
-    try:
-        #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
-        alma_mater = pos.find('th', string= re.compile('Alma*')).next_sibling.stripped_strings#.ul.find_all('li')
-        for i in alma_mater:
-            alma_mater_Record.append(i)#.a["title"])
-    except:
-        print("David P. Anderson" + " - alma -")
-        pass
-
-
-    try:
-        #scope in the awards section of the table and find all the listed awards. Afterwards, iterate through them and capture all titles.
-        awards = pos.find('th', string = re.compile('Awards')).next_sibling.stripped_strings
-        for i in awards:
-            awards_Record.append(i)
-    except:
-        print("David P. Anderson" + ' - awards')
-        pass
+            #scope in the awards section of the table and find all the listed awards. Afterwards, iterate through them and capture all titles.
+            awards = pos.find('th', string = re.compile('Awards')).next_sibling.find_all('a')
+            for i in awards:
+                try:
+                    awards_Record.append(i['title'])
+                except:
+                    pass
+        except:
+            print("David P. Anderson" + ' - awards')
     
-    print(awards_Record, '\n' , alma_mater_Record)
+    else:
+        print("Has not table")
+
+    print(awards_Record, '\n', alma_mater_Record)
+
+def prettify_json():
+    with open('Final_Record.json')
 #Gets exceptions for no apparent reason - Must check!
-test()
+UpdateFinalRecord()
+#test()
