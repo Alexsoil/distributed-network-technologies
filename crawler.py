@@ -13,7 +13,7 @@ Final_Record = "FinalRecord.json"
 
 
 #function that pasres the initial link of Wikipedia and saves all the scientists names and the links to their pages into a csv for later use.
-def Temporal_csv_Record():
+def Update_Scientists_Record():
 
     temp_table_of_scientists = []
     letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -44,9 +44,12 @@ def Temporal_csv_Record():
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(['Scientist', 'Link'])
         csvwriter.writerows(temp_table_of_scientists)
+    
+    print("Update completed!")
+
 
 #function that parses the scientists CSV and opens all the links fetching info from their bio tables about Awards and Alma Mater. Then saves it in a JSON file.
-def UpdateFinalRecord():
+def Update_Final_Record():
 
     awards_Record = []
     alma_mater_Record = []
@@ -100,7 +103,7 @@ def UpdateFinalRecord():
                                 pass
                     else:
                         has_no_alma.append([curr_name, curr_url])
-                        print("\t\t" + curr_name + ' has no alma mater record')
+                        print("\t\t" + curr_name + ' has no alma mater record (skill issue :C )')
 
 
                     if pos.find('th', text= 'Awards'):
@@ -113,7 +116,7 @@ def UpdateFinalRecord():
                                 pass
                     else:
                         has_no_awards.append([curr_name, curr_url])
-                        print("\t\t" + curr_name + ' has no award record')
+                        print("\t\t" + curr_name + ' has no award record (cry about it :C )')
                     
                     #success check for the current scientist
                     print("All good with " + curr_name)
@@ -157,7 +160,7 @@ def test():
     awards_Record = []
     alma_mater_Record = []
     
-    result = requests.get("https://en.wikipedia.org/wiki/Lenore_Blum")
+    result = requests.get("https://en.wikipedia.org/wiki/Konrad_Zuse")
     doc = BeautifulSoup(result.text, "html.parser")
 
     #specify the desired position in the soup tree, that of the info table.
@@ -193,8 +196,13 @@ def test():
 
     print(awards_Record, '\n', alma_mater_Record)
 
-def prettify_json():
-    with open('Final_Record.json')
-#Gets exceptions for no apparent reason - Must check!
-UpdateFinalRecord()
-#test()
+print("1. Update the list of scientists.\n2. Update info of scientists.\n3. Quit.\n")
+option = str(input("\n"))
+
+if option == "1":
+    Update_Scientists_Record()
+elif option == "2":
+    Update_Final_Record()
+else:
+    quit()
+
