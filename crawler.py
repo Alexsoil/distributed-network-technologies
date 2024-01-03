@@ -28,8 +28,7 @@ def Update_Scientists_Record():
     for letter in letters:
 
         try:
-            tags =  doc.find(class_ = "mw-content-ltr mw-parser-output").find(class_ = "mw-headline", id = letter) 
-
+            tags =  doc.find(class_ = "mw-content-ltr mw-parser-output").find(class_ = "mw-headline", id = letter)
             current_ul = tags.parent.next_sibling.next_sibling.find_all("li")
 
     #Append the temporal list of scientists with the links to their wikipedia sites.
@@ -37,7 +36,7 @@ def Update_Scientists_Record():
                 temp_table_of_scientists.append([li.a["title"], "https://en.wikipedia.org" + li.a["href"]])
             
         except:
-            pass
+            print("There's no scientist in the letter: " + letter)
 
     #create the csv for the scientists and the links.
     with open(smallTempCSV, 'w') as csvfile:
@@ -51,20 +50,20 @@ def Update_Scientists_Record():
 #function that parses the scientists CSV and opens all the links fetching info from their bio tables about Awards and Alma Mater. Then saves it in a JSON file.
 def Update_Final_Record():
 
-    awards_Record = []
-    alma_mater_Record = []
-    list_of_dictionaries = []
-    has_no_table = []
-    has_no_awards = []
-    has_no_alma = []
+    awards_Record = []    #lit of the awards a scientist has
+    alma_mater_Record = []    #list of institutions a scientist has graduated from
+    list_of_dictionaries = []    #list that will hold the dictionaries needed for the json file
+    has_no_table = []    #list that holds the names and links of scientists with no info table in wikipedia
+    has_no_awards = []    #list that holds the names and links of scientists with no awards  in wikipedia
+    has_no_alma = []    ##list that holds the names and links of scientists with no Alma mater in wikipedia
 
-    with open(smallTempCSV, 'r') as names_links:
+    with open(smallTempCSV, 'r') as names_links:    #Read from the csv of the scientists
         scientists_links = csv.reader(names_links, delimiter= ',')
-        line_count = 0
+        line_count = 0    #utility usage
 
         #For every scientist in the csv, visit the link of their page and fetch the awards and alma mater. Each time it creates a new soup tree.
         for current_scientist in scientists_links:
-            if line_count == 0:
+            if line_count == 0:    #skip the first iteration, it'll read the name and link row of the csv, useless
                 line_count =+ 1
                 continue
 
@@ -85,35 +84,42 @@ def Update_Final_Record():
 
                 #handle unexpected errors as exceptions
                 try:
-                    if pos.find('th', string= re.compile('Alma*')):
+                    if pos.find('th', string= re.compile('Alma*')):                        
                         alma_mater = pos.find('th', string= re.compile('Alma*')).next_sibling.find_all('a')
+                        
                         #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
                         for i in alma_mater:
                             try:        #if there's a link with no title, throw no errors
                                 alma_mater_Record.append(i["title"])
                             except:
                                 pass
+                                
                     elif pos.find('th', string= re.compile('Education*')):
                         alma_mater = pos.find('th', string= re.compile('Education*')).next_sibling.find_all('a')
+                        
                         #scope in the Alma mater section of the table and find all the listed universities. Afterwards, iterate through them and capture all titles.
                         for i in alma_mater:
                             try:        #if there's a link with no title, throw no errors
                                 alma_mater_Record.append(i["title"])
                             except:
                                 pass
+                                
                     else:
                         has_no_alma.append([curr_name, curr_url])
                         print("\t\t" + curr_name + ' has no alma mater record (skill issue :C )')
 
 
                     if pos.find('th', text= 'Awards'):
+                        
                         #scope in the awards section of the table and find all the listed awards. Afterwards, iterate through them and capture all titles.
                         awards = pos.find('th', text= 'Awards').next_sibling.find_all('a')
+                        
                         for i in awards:
                             try:
                                 awards_Record.append(i['title'])
                             except:
                                 pass
+                                
                     else:
                         has_no_awards.append([curr_name, curr_url])
                         print("\t\t" + curr_name + ' has no award record (cry about it :C )')
@@ -137,9 +143,6 @@ def Update_Final_Record():
             }
             #Add the fetched info to the list as a dictionary for easier cenverting to json object.
             list_of_dictionaries.append(temp_dict)
-
-
-    print(list_of_dictionaries[:10])
     
     with open("No_Awards.csv", 'w') as noAwards:
         writer = csv.writer(noAwards)
@@ -152,10 +155,9 @@ def Update_Final_Record():
         writer.writerows(has_no_alma)
     
     with open("Final_Record.json", 'w') as outfile:
-        json.dump(list_of_dictionaries, outfile)
+        json.dump(list_of_dictionaries, outfile, indent= 4)
 
-
-
+#function designed for testing purposes, feel free to ignore!
 def test():
     awards_Record = []
     alma_mater_Record = []
@@ -205,4 +207,3 @@ elif option == "2":
     Update_Final_Record()
 else:
     quit()
-
