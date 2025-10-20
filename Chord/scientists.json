@@ -1,0 +1,6500 @@
+[
+    {
+        "name": "Atta ur Rehman Khan",
+        "alma_mater": [
+            "University of Malaya",
+            "COMSATS University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Wil van der Aalst",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Scott Aaronson",
+        "alma_mater": [
+            "Cornell University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Alan T. Waterman Award",
+            "PECASE",
+            "Tomassoni–Chisesi Prize",
+            "ACM Prize in Computing"
+        ]
+    },
+    {
+        "name": "Rediet Abebe",
+        "alma_mater": [
+            "Cornell University",
+            "University of Cambridge",
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Hal Abelson",
+        "alma_mater": [
+            "Princeton University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "SIGCSE Award for Outstanding Contribution to Computer Science Education"
+        ]
+    },
+    {
+        "name": "Serge Abiteboul",
+        "alma_mater": [
+            "University of Southern California"
+        ],
+        "awards": [
+            "SIGMOD Edgar F. Codd Innovations Award",
+            "ACM Fellow",
+            "Milner Award",
+            "ISI highly cited researcher"
+        ]
+    },
+    {
+        "name": "Samson Abramsky",
+        "alma_mater": [
+            "King's College, Cambridge",
+            "Queen Mary University of London"
+        ],
+        "awards": [
+            "FRS",
+            "FRSE",
+            "Lovelace Medal",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Leonard Adleman",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Manindra Agrawal",
+        "alma_mater": [
+            "Indian Institute of Technology Kanpur"
+        ],
+        "awards": [
+            "Clay Research Award",
+            "S S Bhatnagar Prize",
+            "ICTP Prize",
+            "Fulkerson Prize",
+            "Gödel Prize",
+            "Infosys Prize",
+            "G.D. Birla Award for Scientific Research",
+            "Padma Shri"
+        ]
+    },
+    {
+        "name": "Luis von Ahn",
+        "alma_mater": [
+            "Duke University",
+            "BS",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "MacArthur Fellowship",
+            "Innovators Under 35",
+            "Lemelson–MIT Prize"
+        ]
+    },
+    {
+        "name": "Alfred Aho",
+        "alma_mater": [
+            "University of Toronto",
+            "Princeton University"
+        ],
+        "awards": [
+            "FAAAS",
+            "IEEE Fellow",
+            "FACM",
+            "John von Neumann Medal",
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Frances E. Allen",
+        "alma_mater": [
+            "University at Albany",
+            "University of Michigan"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "IBM Fellow",
+            "Ada Lovelace Award",
+            "Computer Pioneer Award",
+            "Turing Award",
+            "Member of the National Academy of Sciences"
+        ]
+    },
+    {
+        "name": "Gene Amdahl",
+        "alma_mater": [
+            "South Dakota State University",
+            "BS",
+            "University of Wisconsin",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "National Academy of Engineering",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "David P. Anderson",
+        "alma_mater": [
+            "Wesleyan University",
+            "University of Wisconsin-Madison"
+        ],
+        "awards": [
+            "Presidential Young Investigator Award"
+        ]
+    },
+    {
+        "name": "Lisa Anthony",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Andrew Appel",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Cecilia R. Aragon",
+        "alma_mater": [
+            "California Institute of Technology",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Presidential Early Career Award for Scientists and Engineers"
+        ]
+    },
+    {
+        "name": "Bruce Arden",
+        "alma_mater": [
+            "Purdue University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Angie Jones",
+        "alma_mater": [
+            "Tennessee State University",
+            "North Carolina State University",
+            null
+        ],
+        "awards": []
+    },
+    {
+        "name": "Sanjeev Arora",
+        "alma_mater": [
+            "SB",
+            "Massachusetts Institute of Technology",
+            "PhD",
+            "UC Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Winifred Asprey",
+        "alma_mater": [
+            "Vassar College",
+            "University of Iowa"
+        ],
+        "awards": []
+    },
+    {
+        "name": "John Vincent Atanasoff",
+        "alma_mater": [
+            "University of Florida",
+            "Iowa State University",
+            "University of Wisconsin–Madison"
+        ],
+        "awards": [
+            "Order of Saints Cyril and Methodius"
+        ]
+    },
+    {
+        "name": "Shakuntala Atre",
+        "alma_mater": [
+            "University of Poona",
+            "University of Heidelberg"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Charles Babbage",
+        "alma_mater": [
+            "Peterhouse, Cambridge"
+        ],
+        "awards": [
+            "Gold Medal of the Royal Astronomical Society"
+        ]
+    },
+    {
+        "name": "Charles Bachman",
+        "alma_mater": [
+            "University of Pennsylvania",
+            "Michigan State University"
+        ],
+        "awards": [
+            "Turing Award",
+            "National Medal of Technology and Innovation",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Roland Carl Backhouse",
+        "alma_mater": [
+            "Churchill College, Cambridge",
+            "Imperial College London"
+        ],
+        "awards": []
+    },
+    {
+        "name": "John Backus",
+        "alma_mater": [
+            "University of Virginia",
+            "University of Pittsburgh",
+            "Haverford College",
+            "Columbia University"
+        ],
+        "awards": [
+            "National Medal of Science",
+            "Turing Award",
+            "Charles Stark Draper Prize"
+        ]
+    },
+    {
+        "name": "David F. Bacon",
+        "alma_mater": [
+            "U.C. Berkeley"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "David Bader (computer scientist)",
+        "alma_mater": [
+            "Lehigh University",
+            "University of Maryland, College Park"
+        ],
+        "awards": [
+            "AAAS Fellow",
+            "IEEE Fellow",
+            "SIAM Fellow",
+            "IEEE Computer Society",
+            "Sidney Fernbach Award",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Victor Bahl",
+        "alma_mater": [
+            "University of Massachusetts, Amherst",
+            "Modern School, New Delhi"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Anthony James Barr",
+        "alma_mater": [
+            "North Carolina State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jean Bartik",
+        "alma_mater": [
+            "Northwest Missouri State Teachers College",
+            "University of Pennsylvania"
+        ],
+        "awards": [
+            "Computer Pioneer Award",
+            "IEEE Computer Society"
+        ]
+    },
+    {
+        "name": "Andrew Barto",
+        "alma_mater": [
+            "University of Michigan"
+        ],
+        "awards": [
+            "IEEE Neural Networks Society",
+            "IJCAI Award for Research Excellence"
+        ]
+    },
+    {
+        "name": "Friedrich L. Bauer",
+        "alma_mater": [
+            "Ludwig-Maximilians-Universität"
+        ],
+        "awards": [
+            "Iron Cross",
+            "Bundesverdienstkreuz",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Rudolf Bayer",
+        "alma_mater": [
+            "University of Illinois at Urbana–Champaign"
+        ],
+        "awards": [
+            "Cross of Merit, First class",
+            "SIGMOD Edgar F. Codd Innovations Award"
+        ]
+    },
+    {
+        "name": "Gordon Bell",
+        "alma_mater": [
+            "MIT"
+        ],
+        "awards": [
+            "National Medal of Technology",
+            "IEEE John von Neumann Medal",
+            "CHM"
+        ]
+    },
+    {
+        "name": "Steven M. Bellovin",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Cecilia Berdichevsky",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "alma_mater": [
+            "The Queen's College, Oxford"
+        ],
+        "awards": [
+            "Turing Award",
+            "Queen Elizabeth Prize",
+            "Foreign Associate of the National Academy of Sciences",
+            "Order of Merit",
+            "ACM Software System Award"
+        ]
+    },
+    {
+        "name": "Daniel J. Bernstein",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "New York University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Peter Bernus",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jeff Bezos",
+        "alma_mater": [
+            "Princeton University",
+            "BSE"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Abhay Bhushan",
+        "alma_mater": [
+            "Indian Institute of Technology Kanpur",
+            "Massachusetts Institute of Technology",
+            "MIT Sloan School of Management"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Dines Bjørner",
+        "alma_mater": [
+            "Technical University of Denmark"
+        ],
+        "awards": [
+            "Order of the Dannebrog",
+            "FME",
+            "IFIP"
+        ]
+    },
+    {
+        "name": "Gerrit Blaauw",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Sue Black (computer scientist)",
+        "alma_mater": [
+            "London South Bank University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David Blei",
+        "alma_mater": [
+            "Brown University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "PECASE",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Dorothy Blum",
+        "alma_mater": [
+            "Brooklyn College"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Lenore Blum",
+        "alma_mater": [
+            "Simmons College",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "AAAS Fellow",
+            "Noether Lecture",
+            "PAESMEM"
+        ]
+    },
+    {
+        "name": "Manuel Blum",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "BA",
+            "MA",
+            "PhD"
+        ],
+        "awards": [
+            "ACM's A.M. Turing Award, 1995"
+        ]
+    },
+    {
+        "name": "Barry Boehm",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Corrado Böhm",
+        "alma_mater": [
+            "ETH Zürich"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Kurt Bollacker",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jeff Bonwick",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Grady Booch",
+        "alma_mater": [
+            "U.S. Air Force Academy",
+            "B.S.",
+            "University of California, Santa Barbara",
+            "M.S."
+        ],
+        "awards": [
+            "BCS Lovelace Medal",
+            "IBM Fellow"
+        ]
+    },
+    {
+        "name": "George Boole",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Andrew Donald Booth",
+        "alma_mater": [
+            "Jesus College"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Kathleen Booth",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Anita Borg",
+        "alma_mater": [
+            "New York University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Bert Bos",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Mikhail Botvinnik",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jonathan Bowen",
+        "alma_mater": [
+            "University College",
+            "Oxford"
+        ],
+        "awards": [
+            "Charles Babbage Premium"
+        ]
+    },
+    {
+        "name": "Stephen R. Bourne",
+        "alma_mater": [
+            "King's College London",
+            "BSc",
+            "Trinity College, Cambridge",
+            "Diploma in Computer Science",
+            "Ph.D."
+        ],
+        "awards": [
+            "Fellow",
+            "Fellow",
+            "Royal Astronomical Society"
+        ]
+    },
+    {
+        "name": "Harry Bouwman",
+        "alma_mater": [
+            "VU University Amsterdam"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert S. Boyer",
+        "alma_mater": [
+            "Ph.D.",
+            "Mathematics"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Karlheinz Brandenburg",
+        "alma_mater": [
+            "University of Erlangen-Nuremberg"
+        ],
+        "awards": [
+            "IEEE Masaru Ibuka Consumer Electronics Award"
+        ]
+    },
+    {
+        "name": "Gilles Brassard",
+        "alma_mater": [],
+        "awards": [
+            "FRS",
+            "Wolf Prize in Physics",
+            "Breakthrough Prize in Fundamental Physics"
+        ]
+    },
+    {
+        "name": "Lawrence M. Breed",
+        "alma_mater": [],
+        "awards": [
+            "Grace Murray Hopper Award"
+        ]
+    },
+    {
+        "name": "Jack E. Bresenham",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Sergey Brin",
+        "alma_mater": [
+            "University of Maryland, College Park",
+            "BS",
+            "Stanford University",
+            "MS"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David J. Brown (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Per Brinch Hansen",
+        "alma_mater": [
+            "Technical University of Denmark"
+        ],
+        "awards": [
+            "IEEE Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Sjaak Brinkkemper",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Fred Brooks",
+        "alma_mater": [
+            "Duke University",
+            "Harvard University"
+        ],
+        "awards": [
+            "IEEE John von Neumann Medal",
+            "ACM Fellow",
+            "Turing Award",
+            "Member of the National Academy of Sciences",
+            "Turing Lecture"
+        ]
+    },
+    {
+        "name": "Rod Brooks",
+        "alma_mater": [
+            "Stanford University",
+            "Flinders University"
+        ],
+        "awards": [
+            "IJCAI Computers and Thought Award"
+        ]
+    },
+    {
+        "name": "Margaret Burnett",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Michael Butler (computer scientist)",
+        "alma_mater": [
+            "Trinity College, Dublin",
+            "Wolfson College",
+            "Oxford"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Pino Caballero Gil",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Tracy Camp",
+        "alma_mater": [
+            "The College of William and Mary",
+            "Michigan State University",
+            "Kalamazoo College"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Martin Campbell-Kelly",
+        "alma_mater": [
+            "Sunderland Polytechnic"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Rosemary Candlin",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Rod Canion",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Bryan Cantrill",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Luca Cardelli",
+        "alma_mater": [
+            "University of Pisa",
+            "University of Edinburgh"
+        ],
+        "awards": [
+            "Dahl–Nygaard Prize",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "John Carmack",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Michael E. Caspersen",
+        "alma_mater": [
+            "Aarhus U.",
+            "Aarhus U.",
+            "PhD",
+            "Aarhus U."
+        ],
+        "awards": [
+            "ACM",
+            "ACM",
+            "Aarhus U.",
+            "SIGCSE Award for Outstanding Contribution to Computer Science Education"
+        ]
+    },
+    {
+        "name": "Edwin Catmull",
+        "alma_mater": [
+            "University of Utah"
+        ],
+        "awards": [
+            "Academy Award",
+            "IEEE John von Neumann Medal",
+            "Computer History Museum",
+            "ACM Turing Award"
+        ]
+    },
+    {
+        "name": "Vint Cerf",
+        "alma_mater": [
+            "Stanford University",
+            "BS",
+            "University of California, Los Angeles",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "IEEE Alexander Graham Bell Medal",
+            "IEEE Medal of Honor",
+            "National Medal of Technology",
+            "Marconi Prize",
+            "Prince of Asturias Award",
+            "Turing Award",
+            "Presidential Medal of Freedom",
+            "Japan Prize",
+            "Harold Pender Award",
+            "Queen Elizabeth Prize for Engineering",
+            "ForMemRS"
+        ]
+    },
+    {
+        "name": "Gregory Chaitin",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Robert Cailliau",
+        "alma_mater": [
+            "Ghent University",
+            "University of Michigan"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Zhou Chaochen",
+        "alma_mater": [],
+        "awards": [
+            "Academician",
+            "Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "name": "Peter Chen",
+        "alma_mater": [
+            "National Taiwan University",
+            "Harvard University"
+        ],
+        "awards": [
+            "ACM - AAAI Allen Newell Award",
+            "Harry H. Goode Memorial Award",
+            "DAMA International",
+            "Pan Wen-Yuan"
+        ]
+    },
+    {
+        "name": "Leonardo Chiariglione",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Tracy Chou",
+        "alma_mater": [
+            "Stanford University",
+            "B.S.",
+            "M.S."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Alonzo Church",
+        "alma_mater": [
+            "Princeton University",
+            "BS",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Alberto Ciaramella",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Edmund M. Clarke",
+        "alma_mater": [
+            "Cornell University"
+        ],
+        "awards": [
+            "A.M. Turing Award"
+        ]
+    },
+    {
+        "name": "John Cocke (computer scientist)",
+        "alma_mater": [
+            "Duke University"
+        ],
+        "awards": [
+            "ACM Turing Award",
+            "Computer Pioneer Award",
+            "National Medal of Technology",
+            "National Medal of Science",
+            "IEEE John von Neumann Medal",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "Edgar F. Codd",
+        "alma_mater": [
+            "Exeter College, Oxford",
+            "University of Michigan"
+        ],
+        "awards": [
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Jacques Cohen (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Ian Coldwater",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Simon Colton",
+        "alma_mater": [
+            "Durham University",
+            "University of Liverpool",
+            "University of Edinburgh"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Alain Colmerauer",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Douglas Comer",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Paul Justin Compton",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Richard W. Conway",
+        "alma_mater": [
+            "Cornell",
+            "PhD",
+            "Cornell"
+        ],
+        "awards": [
+            "NAE",
+            "INFORMS"
+        ]
+    },
+    {
+        "name": "Gordon Cormack",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Stephen Cook",
+        "alma_mater": [
+            "Harvard University",
+            "University of Michigan"
+        ],
+        "awards": [
+            "Turing Award",
+            "Gödel Lecture",
+            "CRM-Fields-PIMS prize",
+            "John L. Synge Award",
+            "Bernard Bolzano Medal",
+            "Gerhard Herzberg Canada Gold Medal for Science and Engineering",
+            "Officer of Order of Canada",
+            "BBVA Foundation Frontiers of Knowledge Award"
+        ]
+    },
+    {
+        "name": "James Cooley",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Danese Cooper",
+        "alma_mater": [
+            "University of California, Los Angeles",
+            "BA"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Fernando J. Corbató",
+        "alma_mater": [
+            "California Institute of Technology",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "Turing Award",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "Kit Cosper",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Patrick Cousot",
+        "alma_mater": [
+            "École Nationale Supérieure des Mines de Nancy"
+        ],
+        "awards": [
+            "CNRS Silver Medal",
+            "EADS",
+            "Saarland University",
+            "Ca' Foscari University of Venice",
+            "ACM",
+            "SIGPLAN",
+            "IEEE Computer Society",
+            "IEEE",
+            "ACM Fellow",
+            "EATCS"
+        ]
+    },
+    {
+        "name": "Ingemar Cox",
+        "alma_mater": [
+            "University College London",
+            "Oxford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Seymour Cray",
+        "alma_mater": [
+            "University of Minnesota"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Nello Cristianini",
+        "alma_mater": [
+            "University of Trieste",
+            "University of London",
+            "University of Bristol"
+        ],
+        "awards": [
+            "Royal Society Wolfson Research Merit Award",
+            "ERC Advanced Grant"
+        ]
+    },
+    {
+        "name": "Jon Crowcroft",
+        "alma_mater": [
+            "University of Cambridge",
+            "University College London"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "SIGCOMM Award"
+        ]
+    },
+    {
+        "name": "W. Bruce Croft",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Glen Culler",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "University of California, Los Angeles"
+        ],
+        "awards": [
+            "National Medal of Technology",
+            "Seymour Cray Award",
+            "IEEE Computer Society"
+        ]
+    },
+    {
+        "name": "Haskell Curry",
+        "alma_mater": [
+            "Harvard University",
+            "University of Göttingen"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Luigi Dadda",
+        "alma_mater": [
+            "Politecnico di Milano"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Ole-Johan Dahl",
+        "alma_mater": [
+            "University of Oslo"
+        ],
+        "awards": [
+            "Turing Award",
+            "IEEE John von Neumann Medal"
+        ]
+    },
+    {
+        "name": "Ryan Dahl",
+        "alma_mater": [
+            "UC San Diego",
+            "University of Rochester"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Andries van Dam",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Samir Das",
+        "alma_mater": [
+            "Georgia Tech",
+            "Indian Institute of Science",
+            "Jadavpur University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Neil Daswani",
+        "alma_mater": [
+            "Stanford University",
+            "Columbia University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Christopher J. Date",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Terry A. Davis",
+        "alma_mater": [
+            "Bachelor's degree",
+            "computer engineering",
+            "master's degree",
+            "electrical engineering",
+            "Arizona State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jeff Dean",
+        "alma_mater": [
+            "University of Minnesota",
+            "University of Washington"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Erik Demaine",
+        "alma_mater": [
+            "Dalhousie University",
+            "University of Waterloo"
+        ],
+        "awards": [
+            "MacArthur Fellow",
+            "Nerode Prize",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Tom DeMarco",
+        "alma_mater": [
+            "Cornell University",
+            "Columbia University",
+            "University of Paris"
+        ],
+        "awards": [
+            "Stevens Award"
+        ]
+    },
+    {
+        "name": "Richard DeMillo",
+        "alma_mater": [
+            "University of St. Thomas",
+            "Georgia Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Dorothy E. Denning",
+        "alma_mater": [
+            "University of Michigan",
+            "Purdue University"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "National Cyber Security Hall of Fame"
+        ]
+    },
+    {
+        "name": "Peter J. Denning",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "Manhattan College"
+        ],
+        "awards": [
+            "SIGCSE Award for Lifetime Service to Computer Science Education",
+            "SIGCSE Award for Outstanding Contribution to Computer Science Education"
+        ]
+    },
+    {
+        "name": "Michael Dertouzos",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Alexander Dewdney",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Robert Dewar",
+        "alma_mater": [
+            "University of Chicago",
+            "B.S.",
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Vinod Dham",
+        "alma_mater": [
+            "Delhi College of Engineering",
+            "Delhi Technological University",
+            "Delhi University",
+            "University of Cincinnati"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jan Dietz",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Whitfield Diffie",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "Kanellakis Award",
+            "Marconi Prize",
+            "IEEE Hamming Medal",
+            "Computer History Museum",
+            "Turing Award",
+            "ForMemRS"
+        ]
+    },
+    {
+        "name": "Edsger W. Dijkstra",
+        "alma_mater": [
+            "Leiden University",
+            "University of Amsterdam"
+        ],
+        "awards": [
+            "Turing Award",
+            "Harry H. Goode Memorial Award",
+            "SIGCSE Outstanding Contribution",
+            "ACM Fellow",
+            "Dijkstra Prize"
+        ]
+    },
+    {
+        "name": "Matthew Dillon",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Alan Dix",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jack Dongarra",
+        "alma_mater": [
+            "Chicago State University",
+            "BS",
+            "Illinois Institute of Technology",
+            "MS",
+            "University of New Mexico",
+            "PhD"
+        ],
+        "awards": [
+            "Member of the National Academy of Sciences",
+            "ACM Turing Award",
+            "IEEE Computer Pioneer Award",
+            "Foreign Member of the Royal Society",
+            "SIAM/ACM Prize in Computational Science and Engineering",
+            "ACM/IEEE Ken Kennedy Award",
+            "IEEE Charles Babbage Award",
+            "SIAM SIAG/Supercomputing Career Prize",
+            "SIAM Fellow",
+            "IEEE Medal of Excellence in Scalable Computing",
+            "IEEE Computer Society Sidney Fernbach Memorial Award",
+            "Member of the National Academy of Engineering",
+            "ACM Fellow",
+            "IEEE Fellow",
+            "Fellow of the American Association for the Advancement of Science"
+        ]
+    },
+    {
+        "name": "Marco Dorigo",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Paul Dourish",
+        "alma_mater": [
+            "Computer Science"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Charles Stark Draper",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "Stanford University"
+        ],
+        "awards": [
+            "Magellanic Premium",
+            "National Medal of Science",
+            "Daniel Guggenheim Medal",
+            "Rufus Oldenburger Medal",
+            "Allan D. Emil Memorial Award",
+            "Richard E. Bellman Control Heritage Award"
+        ]
+    },
+    {
+        "name": "Susan Dumais",
+        "alma_mater": [
+            "Indiana University",
+            "Bates College"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Adam Dunkels",
+        "alma_mater": [
+            "Swedish Institute of Computer Science",
+            "B.S.",
+            "M.S.",
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jon Michael Dunn",
+        "alma_mater": [
+            "Oberlin College",
+            "University of Pittsburgh"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Schahram Dustdar",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Peter Eades",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Annie Easley",
+        "alma_mater": [
+            "Cleveland State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Wim Ebbinkhuijsen",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John Presper Eckert",
+        "alma_mater": [
+            "University of Pennsylvania"
+        ],
+        "awards": [
+            "Harry H. Goode Memorial Award",
+            "National Medal of Science",
+            "Harold Pender Award",
+            "IEEE Emanuel R. Piore Award"
+        ]
+    },
+    {
+        "name": "Alan Edelman",
+        "alma_mater": [
+            "MIT",
+            "Yale University"
+        ],
+        "awards": [
+            "Chauvenet Prize",
+            "IEEE Computer Society Charles Babbage Award",
+            "Sidney Fernbach Award"
+        ]
+    },
+    {
+        "name": "Brendan Eich",
+        "alma_mater": [
+            "University of Illinois Urbana-Champaign",
+            "Santa Clara University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Philip Emeagwali",
+        "alma_mater": [
+            "George Washington University School of Engineering and Applied Science",
+            "Oregon State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "E. Allen Emerson",
+        "alma_mater": [
+            "Harvard",
+            "UT Austin"
+        ],
+        "awards": [
+            "Turing Award",
+            "Paris Kanellakis Award"
+        ]
+    },
+    {
+        "name": "Douglas Engelbart",
+        "alma_mater": [
+            "Oregon State University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "National Medal of Technology",
+            "Lemelson–MIT Prize",
+            "Turing Award",
+            "BCS",
+            "Lovelace Medal",
+            "Norbert Wiener Award for Social and Professional Responsibility",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "Barbara Engelhardt",
+        "alma_mater": [
+            "Stanford University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Overton Prize"
+        ]
+    },
+    {
+        "name": "David Eppstein",
+        "alma_mater": [
+            "Stanford University",
+            "Columbia University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Andrey Ershov",
+        "alma_mater": [
+            "Moscow State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Philip Don Estridge",
+        "alma_mater": [
+            "University of Florida"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Oren Etzioni",
+        "alma_mater": [
+            "Harvard University",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "AAAI"
+        ]
+    },
+    {
+        "name": "Christopher Riche Evans",
+        "alma_mater": [
+            "University College London",
+            "University of Reading"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David C. Evans",
+        "alma_mater": [],
+        "awards": [
+            "IEEE Emanuel R. Piore Award"
+        ]
+    },
+    {
+        "name": "Shimon Even",
+        "alma_mater": [
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Scott Fahlman",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "B.S.",
+            "M.S.",
+            "Ph.D."
+        ],
+        "awards": [
+            "Fellow",
+            "American Association for Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Edward Feigenbaum",
+        "alma_mater": [
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "Turing Award",
+            "Computer Pioneer Award",
+            "AAAI Fellow",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Edward Felten",
+        "alma_mater": [
+            "California Institute of Technology",
+            "BS",
+            "University of Washington",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "EFF Pioneer Award"
+        ]
+    },
+    {
+        "name": "Tim Finin",
+        "alma_mater": [
+            "University of Illinois"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "AAAI Fellow"
+        ]
+    },
+    {
+        "name": "Raphael Finkel",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Donald Firesmith",
+        "alma_mater": [
+            "Arizona State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Gary William Flake",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Tommy Flowers",
+        "alma_mater": [
+            "University of London"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert W. Floyd",
+        "alma_mater": [
+            "University of Chicago",
+            "B.A."
+        ],
+        "awards": [
+            "Turing Award",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Sally Floyd",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Lawrence J. Fogel",
+        "alma_mater": [
+            "New York University",
+            "Rutgers University",
+            "University of California, Los Angeles"
+        ],
+        "awards": []
+    },
+    {
+        "name": "James D. Foley",
+        "alma_mater": [
+            "University of Michigan",
+            "Lehigh University"
+        ],
+        "awards": [
+            "IEEE",
+            "ACM Fellow",
+            "AAAS Fellow",
+            "NAE",
+            "SIGGRAPH",
+            "Steven A. Coons Award"
+        ]
+    },
+    {
+        "name": "Ken Forbus",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "BS",
+            "MS",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "L. R. Ford, Jr.",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Lance Fortnow",
+        "alma_mater": [
+            "Cornell University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "NSF",
+            "Fulbright Scholar",
+            "Nerode Prize"
+        ]
+    },
+    {
+        "name": "Mahmoud Samir Fayed",
+        "alma_mater": [
+            "Menoufia University",
+            "King Saud University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Martin Fowler (software engineer)",
+        "alma_mater": [
+            "University College London",
+            "BSc"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert France",
+        "alma_mater": [
+            "University of the West Indies",
+            "Trinidad and Tobago",
+            "Massey University",
+            "New Zealand"
+        ],
+        "awards": [
+            "Dahl–Nygaard Prize"
+        ]
+    },
+    {
+        "name": "Herbert W. Franke",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Edward Fredkin",
+        "alma_mater": [
+            "California Institute of Technology"
+        ],
+        "awards": [
+            "Dickson Prize in Science"
+        ]
+    },
+    {
+        "name": "Yoav Freund",
+        "alma_mater": [
+            "The Hebrew University of Jerusalem",
+            "University of California, Santa Cruz"
+        ],
+        "awards": [
+            "Gödel prize"
+        ]
+    },
+    {
+        "name": "Daniel P. Friedman",
+        "alma_mater": [
+            "University of Houston"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Charlotte Froese Fischer",
+        "alma_mater": [
+            "University of British Columbia",
+            "University of Cambridge"
+        ],
+        "awards": [
+            "Sloan Research Fellowship",
+            "Fellow of the American Physical Society",
+            "Royal Physiographic Society in Lund",
+            "Lithuanian Academy of Sciences",
+            "Malmö University",
+            "Fellow of the Royal Society of Canada",
+            "Western University"
+        ]
+    },
+    {
+        "name": "Ping Fu",
+        "alma_mater": [
+            "University of California, San Diego"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Xiaoming Fu",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Kunihiko Fukushima",
+        "alma_mater": [
+            "Kyoto University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "D. R. Fulkerson",
+        "alma_mater": [
+            "Southern Illinois University",
+            "University of Wisconsin–Madison"
+        ],
+        "awards": [
+            "Lester R. Ford Award",
+            "the Mathematical Association of America"
+        ]
+    },
+    {
+        "name": "Richard P. Gabriel",
+        "alma_mater": [
+            "Northeastern University",
+            "Massachusetts Institute of Technology",
+            "University of Illinois",
+            "Stanford University",
+            "Warren Wilson College"
+        ],
+        "awards": [
+            "Association for Computing Machinery",
+            "Allen Newell"
+        ]
+    },
+    {
+        "name": "Zvi Galil",
+        "alma_mater": [
+            "Tel Aviv University",
+            "BSc",
+            "MSc",
+            "Cornell University",
+            "PhD"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "NAE",
+            "American Academy of Arts and Sciences"
+        ]
+    },
+    {
+        "name": "Bernard Galler",
+        "alma_mater": [
+            "University of Chicago",
+            "UCLA"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Hector Garcia-Molina",
+        "alma_mater": [
+            "Monterrey Institute of Technology and Higher Education",
+            "BS",
+            "Stanford University",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "SIGMOD Edgar F. Codd Innovations Award"
+        ]
+    },
+    {
+        "name": "Michael Garey",
+        "alma_mater": [
+            "University of Wisconsin–Madison"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Hugo de Garis",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Bill Gates",
+        "alma_mater": [
+            "Harvard University"
+        ],
+        "awards": [
+            "Knight Commander of the Order of the British Empire",
+            "Padma Bhushan",
+            "Presidential Medal of Freedom",
+            "Hilal-e-Pakistan"
+        ]
+    },
+    {
+        "name": "David Gelernter",
+        "alma_mater": [
+            "Yale University",
+            "BA",
+            "State University of New York at Stony Brook",
+            "PhD"
+        ],
+        "awards": [
+            "National Council on the Arts"
+        ]
+    },
+    {
+        "name": "Lisa Gelobter",
+        "alma_mater": [
+            "Brown University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Charles Geschke",
+        "alma_mater": [
+            "Xavier University",
+            "AB",
+            "MS",
+            "Carnegie Mellon University",
+            "PhD"
+        ],
+        "awards": [
+            "AeA Medal of Achievement",
+            "National Medal of Technology and Innovation",
+            "Marconi Prize"
+        ]
+    },
+    {
+        "name": "Zoubin Ghahramani",
+        "alma_mater": [
+            "University of Pennsylvania",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "FRS"
+        ]
+    },
+    {
+        "name": "Sanjay Ghemawat",
+        "alma_mater": [
+            "Cornell University",
+            "MIT"
+        ],
+        "awards": [
+            "ACM Prize in Computing"
+        ]
+    },
+    {
+        "name": "Jeremy Gibbons",
+        "alma_mater": [
+            "University of Edinburgh",
+            "B.Sc.",
+            "University of Oxford",
+            "D.Phil."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Juan E. Gilbert",
+        "alma_mater": [
+            "Miami University",
+            "University of Cincinnati"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Lee Giles",
+        "alma_mater": [
+            "Rhodes College",
+            "University of Tennessee",
+            "University of Michigan",
+            "University of Arizona"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "IEEE Fellow",
+            "INNS Fellow",
+            "IBM Distinguished Faculty Award",
+            "INNS Gabor Award",
+            "IEEE Computational Intelligence Society (CIS) Neural Networks Pioneer Award",
+            "National Federation of Advanced Information Services (NFAIS) Miles Conrad Award"
+        ]
+    },
+    {
+        "name": "Seymour Ginsburg",
+        "alma_mater": [
+            "City College of New York",
+            "University of Michigan"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert L. Glass",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Kurt Gödel",
+        "alma_mater": [
+            "University of Vienna",
+            "PhD"
+        ],
+        "awards": [
+            "Albert Einstein Award",
+            "ForMemRS",
+            "National Medal of Science"
+        ]
+    },
+    {
+        "name": "Ashok Goel",
+        "alma_mater": [
+            "Ohio State University"
+        ],
+        "awards": [
+            "AAAI Fellow",
+            "Cognitive Science Society"
+        ]
+    },
+    {
+        "name": "Joseph Goguen",
+        "alma_mater": [
+            "Harvard University",
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "E. Mark Gold",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Adele Goldberg (computer scientist)",
+        "alma_mater": [
+            "University of Michigan",
+            "University of Chicago"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Andrew V. Goldberg",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Ian Goldberg",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "University of Waterloo"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Judy Goldsmith (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Oded Goldreich",
+        "alma_mater": [
+            "Technion",
+            "Weizmann Institute"
+        ],
+        "awards": [
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Shafi Goldwasser",
+        "alma_mater": [
+            "Carnegie Mellon University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Grace Murray Hopper Award",
+            "Gödel Prize",
+            "Member of the National Academy of Sciences",
+            "IEEE Emanuel R. Piore Award",
+            "BBVA Award",
+            "RSA Mathematics Award",
+            "Loreal Unesco Women in Science Award",
+            "Turing Award",
+            "Suffrage Science award",
+            "ACM Fellow",
+            "AAAS Fellow"
+        ]
+    },
+    {
+        "name": "Gene Golub",
+        "alma_mater": [
+            "University of Illinois at Urbana-Champaign"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Martin Charles Golumbic",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Gastón Gonnet",
+        "alma_mater": [
+            "University of Waterloo"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Ian Goodfellow",
+        "alma_mater": [
+            "Stanford University",
+            "Université de Montréal"
+        ],
+        "awards": []
+    },
+    {
+        "name": "James Gosling",
+        "alma_mater": [
+            "University of Calgary",
+            "BSc",
+            "Carnegie Mellon University",
+            "MA",
+            "PhD"
+        ],
+        "awards": [
+            "Order of Canada",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "Paul Graham (computer programmer)",
+        "alma_mater": [
+            "Cornell University",
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert M. Graham (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Susan L. Graham",
+        "alma_mater": [
+            "Harvard",
+            "Stanford"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "Ken Kennedy Award",
+            "IEEE Fellow",
+            "IEEE von Neumann Medal",
+            "Fellow of the AAAS"
+        ]
+    },
+    {
+        "name": "Jim Gray (computer scientist)",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Turing Award",
+            "IEEE Computer Society Charles Babbage Award"
+        ]
+    },
+    {
+        "name": "Sheila Greibach",
+        "alma_mater": [
+            "Radcliffe College",
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David Gries",
+        "alma_mater": [
+            "B.S.",
+            "Queens College",
+            "M.S.",
+            "University of Illinois at Urbana-Champaign",
+            "Dr. rer. nat.",
+            "Technical University of Munich"
+        ],
+        "awards": [
+            "AFIPS",
+            "ACM",
+            "SIGCSE",
+            "IEEE Computer Society",
+            "Taylor L. Booth Education Award"
+        ]
+    },
+    {
+        "name": "Ralph Griswold",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Bill Gropp",
+        "alma_mater": [
+            "Stanford University"
+        ],
+        "awards": [
+            "Sidney Fernbach Award",
+            "Ken Kennedy Award"
+        ]
+    },
+    {
+        "name": "Tom Gruber",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Shelia Guberman",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Ramanathan V. Guha",
+        "alma_mater": [
+            "Indian Institute of Technology Madras",
+            "University of California, Berkeley",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Neil J. Gunther",
+        "alma_mater": [
+            "La Trobe University",
+            "University of Southampton"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jürg Gutknecht",
+        "alma_mater": [
+            "Ph.D.",
+            "ETH Zurich"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Michael Guy",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Robert Griesemer",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Nico Habermann",
+        "alma_mater": [
+            "Free University of Amsterdam",
+            "Eindhoven University of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Philipp Matthäus Hahn",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Eldon C. Hall",
+        "alma_mater": [
+            "University of Washington",
+            "Rutgers University",
+            "Eastern Nazarene College",
+            "Boston University",
+            "Massachusetts Institute of Technology",
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Wendy Hall",
+        "alma_mater": [
+            "University of Southampton",
+            "City University London"
+        ],
+        "awards": [
+            "Suffrage Science award"
+        ]
+    },
+    {
+        "name": "Joseph Halpern",
+        "alma_mater": [],
+        "awards": [
+            "Gödel Prize",
+            "Allen Newell Award",
+            "Dijkstra Prize"
+        ]
+    },
+    {
+        "name": "Margaret Hamilton (software engineer)",
+        "alma_mater": [
+            "University of Michigan",
+            "Earlham College",
+            "BA"
+        ],
+        "awards": [
+            "Presidential Medal of Freedom"
+        ]
+    },
+    {
+        "name": "Richard Hamming",
+        "alma_mater": [
+            "University of Chicago",
+            "University of Nebraska",
+            "University of Illinois at Urbana–Champaign"
+        ],
+        "awards": [
+            "Turing Award",
+            "IEEE Emanuel R. Piore Award",
+            "Harold Pender Award",
+            "IEEE Hamming Medal"
+        ]
+    },
+    {
+        "name": "Jiawei Han",
+        "alma_mater": [
+            "University of Wisconsin - Madison",
+            "PhD",
+            "University of Science and Technology of China",
+            "BSc."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Frank Harary",
+        "alma_mater": [
+            "Brooklyn College",
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Brian Harris (translation researcher)",
+        "alma_mater": [
+            "School of Oriental and African Studies",
+            "American University in Cairo",
+            "Quai d'Orsay"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Juris Hartmanis",
+        "alma_mater": [
+            "University of Marburg",
+            "University of Kansas City",
+            "Caltech"
+        ],
+        "awards": [
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Johan Håstad",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "Uppsala University",
+            "Stockholm University"
+        ],
+        "awards": [
+            "IMO gold medal",
+            "ACM Doctoral Dissertation Award",
+            "Gödel Prize",
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Les Hatton",
+        "alma_mater": [
+            "King's College, Cambridge"
+        ],
+        "awards": [
+            "Conrad Schlumberger Award"
+        ]
+    },
+    {
+        "name": "Igor Hawryszkiewycz",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "He Jifeng",
+        "alma_mater": [
+            "Fudan University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Eric Hehner",
+        "alma_mater": [
+            "Carleton University",
+            "B.Sc.",
+            "University of Toronto",
+            "M.Sc.",
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Martin Hellman",
+        "alma_mater": [
+            "New York University",
+            "Stanford University"
+        ],
+        "awards": [
+            "IEEE Centennial Medal",
+            "EFF Pioneer Award",
+            "Louis E. Levy Medal",
+            "Golden Jubilee Awards for Technological Innovation",
+            "Marconi Prize",
+            "National Academy of Engineering",
+            "Hamming Medal",
+            "Computer History Museum",
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Gernot Heiser",
+        "alma_mater": [
+            "University of Freiburg",
+            "Brock University",
+            "ETH Zurich"
+        ],
+        "awards": [
+            "Leopoldina Member",
+            "RSN Fellow",
+            "ACM SIGOPS Hall of Fame Award",
+            "ATSE Fellow",
+            "IEEE Fellow",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "James Hendler",
+        "alma_mater": [
+            "Yale University",
+            "Southern Methodist University",
+            "Brown University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "John L. Hennessy",
+        "alma_mater": [
+            "Villanova University",
+            "BS",
+            "Stony Brook University",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "Charles Stark Draper Prize",
+            "Turing Award",
+            "BBVA Foundation Frontiers of Knowledge Award",
+            "Clark Kerr Award",
+            "IEEE Medal of Honor",
+            "Member of the National Academy of Sciences",
+            "Fellow of the American Academy of Arts and Sciences",
+            "ACM Fellow",
+            "Fellow of the Royal Academy of Engineering"
+        ]
+    },
+    {
+        "name": "Andrew Herbert",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Carl Hewitt",
+        "alma_mater": [
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Kelsey Hightower",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Danny Hillis",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "Dan David Prize",
+            "Grace Murray Hopper Award"
+        ]
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "alma_mater": [
+            "University of Cambridge",
+            "BA",
+            "University of Edinburgh"
+        ],
+        "awards": [
+            "AAAI Fellow",
+            "Rumelhart Prize",
+            "IJCAI Award for Research Excellence",
+            "IEEE Frank Rosenblatt Award",
+            "James Clerk Maxwell Medal",
+            "BBVA Foundation Frontiers of Knowledge Award",
+            "Turing Award",
+            "Dickson Prize",
+            "Princess of Asturias Award"
+        ]
+    },
+    {
+        "name": "Julia Hirschberg",
+        "alma_mater": [
+            "University of Pennsylvania",
+            "University of Michigan"
+        ],
+        "awards": [
+            "American Academy of Arts and Sciences",
+            "IEEE",
+            "National Academy of Engineering",
+            "ACM Fellow",
+            "ACL",
+            "AAAI Fellow",
+            "International Speech Communication Association",
+            "KTH",
+            "IEEE James L. Flanagan Speech and Audio Processing Award"
+        ]
+    },
+    {
+        "name": "Tin Kam Ho",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "C. A. R. Hoare",
+        "alma_mater": [
+            "University of Oxford",
+            "Moscow State University"
+        ],
+        "awards": [
+            "Turing Award",
+            "Harry H. Goode Memorial Award",
+            "Faraday Medal",
+            "Computer Pioneer Award",
+            "Kyoto Prize",
+            "IEEE John von Neumann Medal",
+            "Royal Medal"
+        ]
+    },
+    {
+        "name": "Louis Hodes",
+        "alma_mater": [
+            "B.S.",
+            "Polytechnic Institute of Brooklyn",
+            "Ph.D.",
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Betty Holberton",
+        "alma_mater": [
+            "University of Pennsylvania"
+        ],
+        "awards": [
+            "Department of Commerce Silver Medal",
+            "Ada Lovelace Award",
+            "IEEE Computer Pioneer Award",
+            "WITI Hall of Fame"
+        ]
+    },
+    {
+        "name": "John Henry Holland",
+        "alma_mater": [
+            "University of Michigan"
+        ],
+        "awards": [
+            "MacArthur Fellow",
+            "Harold Pender Award"
+        ]
+    },
+    {
+        "name": "Herman Hollerith",
+        "alma_mater": [
+            "City College of New York",
+            "Columbia University"
+        ],
+        "awards": [
+            "Elliott Cresson Medal",
+            "World's Columbian Exposition",
+            "National Inventors Hall of Fame"
+        ]
+    },
+    {
+        "name": "Gerard Holzmann",
+        "alma_mater": [
+            "Delft University of Technology"
+        ],
+        "awards": [
+            "Paris Kanellakis Award"
+        ]
+    },
+    {
+        "name": "John Hopcroft",
+        "alma_mater": [
+            "Seattle University",
+            "Stanford University"
+        ],
+        "awards": [
+            "Turing Award",
+            "Member of the National Academy of Sciences",
+            "Member of the National Academy of Engineering",
+            "Foreign Member of the Chinese Academy of Sciences",
+            "Fellow of the American Academy of Arts and Sciences",
+            "Fellow of the American Association for the Advancement of Science",
+            "Fellow of the Institute of Electrical and Electronics Engineers",
+            "Fellow of the Association for Computing Machinery"
+        ]
+    },
+    {
+        "name": "Grace Hopper",
+        "alma_mater": [
+            "Vassar College",
+            "BA",
+            "Yale University",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "Defense Distinguished Service Medal",
+            "Legion of Merit",
+            "Meritorious Service Medal",
+            "American Campaign Medal",
+            "World War II Victory Medal",
+            "National Defense Service Medal",
+            "Armed Forces Reserve Medal",
+            "Hourglass Devices",
+            "Naval Reserve Medal",
+            "Presidential Medal of Freedom"
+        ]
+    },
+    {
+        "name": "Eric Horvitz",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Alston Householder",
+        "alma_mater": [
+            "University of Chicago"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Paul Hudak",
+        "alma_mater": [
+            "Vanderbilt University",
+            "B.S.",
+            "Massachusetts Institute of Technology",
+            "M.S.",
+            "University of Utah",
+            "Ph.D."
+        ],
+        "awards": [
+            "Presidential Young Investigator Award",
+            "ACM Fellow",
+            "ICFP"
+        ]
+    },
+    {
+        "name": "David A. Huffman",
+        "alma_mater": [
+            "Ohio State University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "IEEE Richard W. Hamming Medal"
+        ]
+    },
+    {
+        "name": "John Hughes (computer scientist)",
+        "alma_mater": [
+            "University of Oxford",
+            "PhD"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Roger Hui",
+        "alma_mater": [
+            "University of Alberta",
+            "University of Toronto"
+        ],
+        "awards": [
+            "Kenneth E. Iverson Award for Outstanding Contribution to APL"
+        ]
+    },
+    {
+        "name": "Watts Humphrey",
+        "alma_mater": [],
+        "awards": [
+            "National Medal of Technology"
+        ]
+    },
+    {
+        "name": "Sandra Hutchins",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Steve Hoberman",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jean Ichbiah",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Roberto Ierusalimschy",
+        "alma_mater": [
+            "Pontifical Catholic University of Rio de Janeiro"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Dan Ingalls",
+        "alma_mater": [
+            "Harvard University",
+            "B.A.",
+            "Stanford University",
+            "M.S."
+        ],
+        "awards": [
+            "ACM",
+            "Grace Murray Hopper Award",
+            "ACM Software Systems Award"
+        ]
+    },
+    {
+        "name": "Mary Jane Irwin",
+        "alma_mater": [
+            "University of Illinois at Urbana-Champaign",
+            "Memphis State University"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "IEEE Fellow",
+            "NAE"
+        ]
+    },
+    {
+        "name": "Kenneth E. Iverson",
+        "alma_mater": [
+            "Queen's University",
+            "Harvard University"
+        ],
+        "awards": [
+            "IBM Fellow",
+            "Harry H. Goode Memorial Award",
+            "Turing Award",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Ivar Jacobson",
+        "alma_mater": [
+            "Chalmers Institute of Technology",
+            "Gothenburg",
+            "Royal Institute of Technology",
+            "Stockholm"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Anil K. Jain (computer scientist, born 1948)",
+        "alma_mater": [
+            "Indian Institute of Technology, Kanpur",
+            "Ohio State University"
+        ],
+        "awards": [
+            "IIT Kanpur",
+            "National Academy of Engineering",
+            "Indian National Academy of Engineering",
+            "IAPR",
+            "King-Sun Fu",
+            "IEEE",
+            "W. Wallace McDowell Award",
+            "IEEE Computer Society",
+            "IAPR",
+            "Humboldt Research Award",
+            "Guggenheim Fellowship",
+            "Fulbright Fellowship"
+        ]
+    },
+    {
+        "name": "Ramesh Jain",
+        "alma_mater": [
+            "Indian Institute of Technology, Kharagpur",
+            "Visvesvaraya National Institute of Technology Nagpur"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jonathan James",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "David S. Johnson",
+        "alma_mater": [
+            "Amherst College",
+            "MIT"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Stephen C. Johnson",
+        "alma_mater": [
+            "Columbia University",
+            "Haverford College"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Cliff Jones (computer scientist)",
+        "alma_mater": [
+            "University of Oxford"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Michael I. Jordan",
+        "alma_mater": [
+            "University of California, San Diego"
+        ],
+        "awards": [
+            "Member of the National Academy of Sciences",
+            "AAAI Fellow",
+            "Rumelhart Prize",
+            "IJCAI Award for Research Excellence",
+            "IEEE John von Neumann Medal"
+        ]
+    },
+    {
+        "name": "Mathai Joseph",
+        "alma_mater": [
+            "Wilson College, Mumbai",
+            "University of Bombay",
+            "Welsh College of Advanced Technology",
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Aravind K. Joshi",
+        "alma_mater": [
+            "College of Engineering, Pune",
+            "Indian Institute of Science",
+            "University of Pennsylvania"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Bill Joy",
+        "alma_mater": [
+            "University of Michigan",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "ACM Grace Murray Hopper Award",
+            "National Academy of Engineering",
+            "American Academy of Arts and Sciences",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "Dan Jurafsky",
+        "alma_mater": [
+            "University of California at Berkeley"
+        ],
+        "awards": [
+            "MacArthur Fellowship"
+        ]
+    },
+    {
+        "name": "William Kahan",
+        "alma_mater": [
+            "University of Toronto"
+        ],
+        "awards": [
+            "Turing Award",
+            "IEEE Emanuel R. Piore Award",
+            "National Academy of Engineering",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Robert E. Kahn",
+        "alma_mater": [
+            "City College of New York",
+            "Princeton University"
+        ],
+        "awards": [
+            "Marconi Prize",
+            "National Medal of Technology and Innovation",
+            "IEEE Alexander Graham Bell Medal",
+            "Charles Stark Draper Prize",
+            "Prince of Asturias Award",
+            "Turing Award",
+            "Presidential Medal of Freedom",
+            "Computer History Museum",
+            "Japan Prize",
+            "Harold Pender Award",
+            "Queen Elizabeth Prize for Engineering",
+            "IEEE Medal of Honor"
+        ]
+    },
+    {
+        "name": "Avinash Kak",
+        "alma_mater": [
+            "University of Madras",
+            "Indian Institute of Technology, Delhi"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Poul-Henning Kamp",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "David Karger",
+        "alma_mater": [
+            "Harvard University",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Richard Karp",
+        "alma_mater": [
+            "Harvard University"
+        ],
+        "awards": [
+            "Fulkerson Prize",
+            "Turing Award",
+            "John von Neumann Theory Prize",
+            "IEEE Computer Society Charles Babbage Award",
+            "National Medal of Science",
+            "Harvey Prize",
+            "EATCS award",
+            "Benjamin Franklin Medal",
+            "Kyoto Prize"
+        ]
+    },
+    {
+        "name": "Narendra Karmarkar",
+        "alma_mater": [
+            "IIT Bombay",
+            "Caltech",
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Marek Karpinski",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Ted Kaehler",
+        "alma_mater": [
+            "Stanford University",
+            "B.S.",
+            "Carnegie Mellon University",
+            "MSc"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Alan Kay",
+        "alma_mater": [
+            "University of Colorado at Boulder",
+            "BS",
+            "University of Utah College of Engineering",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "Turing Award",
+            "Kyoto Prize",
+            "Charles Stark Draper Prize"
+        ]
+    },
+    {
+        "name": "Neeraj Kayal",
+        "alma_mater": [
+            "IIT Kanpur"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Manolis Kellis",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "Presidential Early Career Award for Scientists and Engineers",
+            "NSF CAREER Award",
+            "Sloan Research Fellowship"
+        ]
+    },
+    {
+        "name": "John George Kemeny",
+        "alma_mater": [
+            "Princeton University"
+        ],
+        "awards": [
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Ken Kennedy (computer scientist)",
+        "alma_mater": [
+            "Rice University",
+            "New York University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Brian Kernighan",
+        "alma_mater": [
+            "University of Toronto",
+            "BASc",
+            "Princeton University",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Carl Kesselman",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Gregor Kiczales",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Peter T. Kirstein",
+        "alma_mater": [
+            "University of Cambridge",
+            "Stanford University"
+        ],
+        "awards": [
+            "Marconi Prize",
+            "SIGCOMM Award",
+            "Jonathan B. Postel Service Award"
+        ]
+    },
+    {
+        "name": "Stephen Cole Kleene",
+        "alma_mater": [
+            "Amherst College",
+            "Princeton University"
+        ],
+        "awards": [
+            "Leroy P. Steele Prize",
+            "National Medal of Science"
+        ]
+    },
+    {
+        "name": "Dan Klein",
+        "alma_mater": [
+            "Cornell University",
+            "University of Oxford",
+            "Stanford University"
+        ],
+        "awards": [
+            "Grace Murray Hopper Award",
+            "Sloan Research Fellowship"
+        ]
+    },
+    {
+        "name": "Leonard Kleinrock",
+        "alma_mater": [
+            "City College of New York",
+            "MIT"
+        ],
+        "awards": [
+            "Marconi Prize",
+            "Harry H. Goode Memorial Award",
+            "National Medal of Science",
+            "IEEE Alexander Graham Bell Medal",
+            "BBVA Foundation Frontiers of Knowledge Award"
+        ]
+    },
+    {
+        "name": "Donald Knuth",
+        "alma_mater": [
+            "Case Institute of Technology",
+            "BS",
+            "MS",
+            "California Institute of Technology",
+            "PhD"
+        ],
+        "awards": [
+            "SIGCSE Outstanding Contribution",
+            "Grace Murray Hopper Award",
+            "Turing Award",
+            "Member of the National Academy of Sciences",
+            "National Medal of Science",
+            "John von Neumann Medal",
+            "Harvey Prize",
+            "Kyoto Prize",
+            "Foreign Member of the Royal Society",
+            "Faraday Medal",
+            "BBVA Foundation Frontiers of Knowledge Award",
+            "Turing Lecture",
+            "Flajolet Lecture"
+        ]
+    },
+    {
+        "name": "Andrew Koenig (programmer)",
+        "alma_mater": [
+            "Columbia University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Daphne Koller",
+        "alma_mater": [
+            "Hebrew University of Jerusalem",
+            "Stanford University"
+        ],
+        "awards": [
+            "ISCB Fellow",
+            "IJCAI Computers and Thought Award",
+            "MacArthur Fellow",
+            "PECASE",
+            "ACM Prize in Computing"
+        ]
+    },
+    {
+        "name": "Michael Kölling",
+        "alma_mater": [
+            "University of Bremen",
+            "University of Sydney"
+        ],
+        "awards": [
+            "SIGCSE Award for Outstanding Contribution to Computer Science Education",
+            "National Teaching Fellowship",
+            "Pearcey Award"
+        ]
+    },
+    {
+        "name": "Andrey Nikolaevich Kolmogorov",
+        "alma_mater": [
+            "Moscow State University",
+            "Ph.D."
+        ],
+        "awards": [
+            "Russian Academy of Sciences",
+            "Stalin Prize",
+            "Balzan Prize",
+            "ForMemRS",
+            "Lenin Prize",
+            "Wolf Prize",
+            "Lobachevsky Prize"
+        ]
+    },
+    {
+        "name": "Janet L. Kolodner",
+        "alma_mater": [
+            "Brandeis University",
+            "Yale University"
+        ],
+        "awards": [
+            "AAAI Fellow"
+        ]
+    },
+    {
+        "name": "David Korn (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Cornelis H. A. Koster",
+        "alma_mater": [
+            "University of Amsterdam"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert Kowalski",
+        "alma_mater": [
+            "University of Chicago",
+            "University of Bridgeport",
+            "BA",
+            "Stanford University",
+            "MSc",
+            "University of Warsaw",
+            "University of Edinburgh",
+            "PhD"
+        ],
+        "awards": [
+            "IJCAI Award for Research Excellence"
+        ]
+    },
+    {
+        "name": "John Koza",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John Krogstie",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Joseph Kruskal",
+        "alma_mater": [
+            "University of Chicago",
+            "Princeton University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Maarja Kruusmaa",
+        "alma_mater": [
+            "Tallinn University of Technology",
+            "Chalmers University of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Thomas E. Kurtz",
+        "alma_mater": [
+            "Princeton University",
+            "Knox College",
+            "mathematics"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Richard E. Ladner",
+        "alma_mater": [
+            "St. Mary's College of California",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Guggenheim Fellowship",
+            "ACM Fellow",
+            "IEEE Fellow",
+            "SIGCHI Social Impact Award",
+            "SIGACCESS Outstanding Contribution to Computing and Accessibility Award"
+        ]
+    },
+    {
+        "name": "Monica S. Lam",
+        "alma_mater": [
+            "Carnegie Mellon University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Leslie Lamport",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "BS",
+            "Brandeis University",
+            "MA",
+            "PhD"
+        ],
+        "awards": [
+            "Dijkstra Prize",
+            "IEEE Emanuel R. Piore Award",
+            "IEEE John von Neumann Medal",
+            "Turing Award",
+            "Member of the National Academy of Sciences",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Butler Lampson",
+        "alma_mater": [
+            "Harvard University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Turing Award",
+            "ACM Fellow",
+            "IEEE John von Neumann Medal",
+            "Member of the National Academy of Sciences",
+            "Draper Prize",
+            "Foreign Member of the Royal Society"
+        ]
+    },
+    {
+        "name": "Peter Landin",
+        "alma_mater": [
+            "Clare College",
+            "Cambridge University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Tom Lane (computer scientist)",
+        "alma_mater": [
+            "Carnegie Mellon University",
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Börje Langefors",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Chris Lattner",
+        "alma_mater": [
+            "University of Portland",
+            "University of Illinois at Urbana-Champaign"
+        ],
+        "awards": [
+            "ACM SIGPLAN Programming Languages Software Award",
+            "ACM Software System Award"
+        ]
+    },
+    {
+        "name": "Steve Lawrence (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Edward D. Lazowska",
+        "alma_mater": [
+            "Brown University",
+            "University of Toronto"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Joshua Lederberg",
+        "alma_mater": [
+            "Stuyvesant High School",
+            "Columbia University",
+            "Yale University"
+        ],
+        "awards": [
+            "Nobel Prize in Physiology or Medicine",
+            "National Medal of Science",
+            "Presidential Medal of Freedom"
+        ]
+    },
+    {
+        "name": "Manny M Lehman",
+        "alma_mater": [
+            "Imperial College London"
+        ],
+        "awards": [
+            "Harlan D. Mills Award",
+            "FREng"
+        ]
+    },
+    {
+        "name": "Charles E. Leiserson",
+        "alma_mater": [
+            "Carnegie Mellon University",
+            "Yale University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Douglas Lenat",
+        "alma_mater": [
+            "University of Pennsylvania",
+            "Stanford University"
+        ],
+        "awards": [
+            "IJCAI Computers and Thought Award"
+        ]
+    },
+    {
+        "name": "Yann LeCun",
+        "alma_mater": [
+            "ESIEE Paris",
+            "MS",
+            "Pierre and Marie Curie University",
+            "PhD"
+        ],
+        "awards": [
+            "Turing Award",
+            "AAAI Fellow",
+            "Legion of Honour"
+        ]
+    },
+    {
+        "name": "Rasmus Lerdorf",
+        "alma_mater": [
+            "University of Waterloo"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Max Levchin",
+        "alma_mater": [
+            "University of Illinois at Urbana-Champaign"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Leonid Levin",
+        "alma_mater": [
+            "Moscow University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Kevin Leyton-Brown",
+        "alma_mater": [
+            "McMaster University",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "J.C.R. Licklider",
+        "alma_mater": [
+            "Washington University in St. Louis",
+            "University of Rochester"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David Liddle",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jochen Liedtke",
+        "alma_mater": [
+            "Bielefeld University",
+            "Technical University of Berlin"
+        ],
+        "awards": []
+    },
+    {
+        "name": "John Lions",
+        "alma_mater": [
+            "University of Sydney",
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Charles H. Lindsey",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Richard J. Lipton",
+        "alma_mater": [
+            "Carnegie Mellon"
+        ],
+        "awards": [
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Barbara Liskov",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "Stanford University"
+        ],
+        "awards": [
+            "IEEE John von Neumann Medal",
+            "A. M. Turing Award",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Yanhong Annie Liu",
+        "alma_mater": [
+            "Cornell University",
+            "Tsinghua University",
+            "Peking University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Darrell Long",
+        "alma_mater": [
+            "San Diego State University",
+            "University of California, San Diego"
+        ],
+        "awards": [
+            "IEEE Fellow",
+            "AAAS Fellow"
+        ]
+    },
+    {
+        "name": "Patricia D. Lopez",
+        "alma_mater": [
+            "New Mexico State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Gillian Lovegrove",
+        "alma_mater": [
+            "Newnham College, Cambridge",
+            "Cambridge University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Ada Lovelace",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "David Luckham",
+        "alma_mater": [
+            "Ph.D.",
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Eugene Luks",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Nancy Lynch",
+        "alma_mater": [
+            "Brooklyn College",
+            "MIT"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "Dijkstra Prize",
+            "National Academy of Engineering",
+            "Van Wijngaarden Award",
+            "IEEE Emanuel R. Piore Award",
+            "National Academy of Sciences",
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Nadia Magnenat Thalmann",
+        "alma_mater": [
+            "University of Geneva",
+            "École Polytechnique Fédérale de Lausanne"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Tom Maibaum",
+        "alma_mater": [
+            "B.Sc.",
+            "University of Toronto",
+            "Ph.D.",
+            "University of London"
+        ],
+        "awards": [
+            "Fellow of the Royal Society of Arts"
+        ]
+    },
+    {
+        "name": "Simon Marlow",
+        "alma_mater": [
+            "University of Glasgow",
+            "University of Bristol"
+        ],
+        "awards": [
+            "SIGPLAN Programming Languages Software Award"
+        ]
+    },
+    {
+        "name": "Zohar Manna",
+        "alma_mater": [
+            "Technion – Israel Institute of Technology",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "Fellow of the Association for Computing Machinery",
+            "Herbrand Award",
+            "Technical University of Munich",
+            "École Normale Supérieure de Cachan"
+        ]
+    },
+    {
+        "name": "James Martin (author)",
+        "alma_mater": [
+            "University of Oxford"
+        ],
+        "awards": [
+            "Turing Lecture"
+        ]
+    },
+    {
+        "name": "Robert C. Martin",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John Mashey",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Yuri Matiyasevich",
+        "alma_mater": [
+            "Leningrad State University"
+        ],
+        "awards": [
+            "Petersburg Mathematical Society",
+            "Humboldt Award"
+        ]
+    },
+    {
+        "name": "Yukihiro Matsumoto",
+        "alma_mater": [
+            "University of Tsukuba",
+            "Shimane University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "John Mauchly",
+        "alma_mater": [
+            "Johns Hopkins University"
+        ],
+        "awards": [
+            "Harry H. Goode Memorial Award",
+            "Harold Pender Award",
+            "IEEE Emanuel R. Piore Award"
+        ]
+    },
+    {
+        "name": "Ujjwal Maulik",
+        "alma_mater": [
+            "Nabadwip Bakultala High School",
+            "Calcutta University",
+            "Jadavpur University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Derek McAuley",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": [
+            "FREng"
+        ]
+    },
+    {
+        "name": "John McCarthy (computer scientist)",
+        "alma_mater": [
+            "Princeton University",
+            "California Institute of Technology"
+        ],
+        "awards": [
+            "Turing Award",
+            "Computer Pioneer Award",
+            "IJCAI Award for Research Excellence",
+            "Kyoto Prize",
+            "National Medal of Science",
+            "Benjamin Franklin Medal"
+        ]
+    },
+    {
+        "name": "Andrew McCallum",
+        "alma_mater": [
+            "Dartmouth College",
+            "University of Rochester"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Douglas McIlroy",
+        "alma_mater": [
+            "Cornell University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Chris McKinstry",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Marshall Kirk McKusick",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Lambert Meertens",
+        "alma_mater": [],
+        "awards": [
+            "IFIP"
+        ]
+    },
+    {
+        "name": "Kurt Mehlhorn",
+        "alma_mater": [
+            "Cornell University"
+        ],
+        "awards": [
+            "Leibniz Prize",
+            "Konrad Zuse Medal",
+            "EATCS Award",
+            "Paris Kanellakis Award"
+        ]
+    },
+    {
+        "name": "Dora Metcalf",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Bertrand Meyer",
+        "alma_mater": [
+            "Université de Nancy",
+            "Stanford University",
+            "École Polytechnique"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Silvio Micali",
+        "alma_mater": [
+            "La Sapienza University of Rome",
+            "UC Berkeley"
+        ],
+        "awards": [
+            "Gödel Prize",
+            "Turing Award",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Robin Milner",
+        "alma_mater": [],
+        "awards": [
+            "Turing Award",
+            "FRS",
+            "DFBCS",
+            "FRSE"
+        ]
+    },
+    {
+        "name": "Jack Minker",
+        "alma_mater": [
+            "Brooklyn College",
+            "University of Wisconsin",
+            "University of Pennsylvania"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "Allen Newell Award"
+        ]
+    },
+    {
+        "name": "Marvin Minsky",
+        "alma_mater": [
+            "Harvard University",
+            "BA",
+            "Princeton University",
+            "MA",
+            "PhD"
+        ],
+        "awards": [
+            "Turing Award",
+            "Japan Prize",
+            "AAAI Fellow",
+            "IJCAI Award for Research Excellence",
+            "Benjamin Franklin Medal",
+            "BBVA Foundation Frontiers of Knowledge Award"
+        ]
+    },
+    {
+        "name": "James G. Mitchell",
+        "alma_mater": [
+            "University of Waterloo",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "J.W. Graham Medal"
+        ]
+    },
+    {
+        "name": "Tom M. Mitchell",
+        "alma_mater": [
+            "Stanford University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "IJCAI Computers and Thought Award",
+            "Presidential Young Investigator Award"
+        ]
+    },
+    {
+        "name": "Arvind (computer scientist)",
+        "alma_mater": [
+            "IIT Kanpur",
+            "B.Sc., 1969",
+            "University of Minnesota",
+            "M.S.",
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Paul Mockapetris",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "University of California at Irvine"
+        ],
+        "awards": [
+            "IEEE Internet Award",
+            "ACM Fellow",
+            "SIGCOMM Award",
+            "Software System Award"
+        ]
+    },
+    {
+        "name": "Cleve Moler",
+        "alma_mater": [
+            "California Institute of Technology",
+            "Stanford University"
+        ],
+        "awards": [
+            "Computer Pioneer Award",
+            "IEEE John von Neumann Medal"
+        ]
+    },
+    {
+        "name": "Faron Moller",
+        "alma_mater": [
+            "University of British Columbia",
+            "University of Waterloo",
+            "University of Edinburgh"
+        ],
+        "awards": []
+    },
+    {
+        "name": "John P. Moon",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Charles H. Moore",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Edward F. Moore",
+        "alma_mater": [
+            "Virginia Tech",
+            "Brown University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Gordon Moore",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "BS",
+            "California Institute of Technology",
+            "PhD"
+        ],
+        "awards": [
+            "National Medal of Technology",
+            "John Fritz Medal",
+            "IEEE Founders Medal",
+            "Computer History Museum",
+            "Othmer Gold Medal",
+            "Presidential Medal of Freedom",
+            "Perkin Medal",
+            "Nierenberg Prize",
+            "IEEE Medal of Honor"
+        ]
+    },
+    {
+        "name": "J Strother Moore",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Roger Moore (computer scientist)",
+        "alma_mater": [
+            "Stanford University"
+        ],
+        "awards": [
+            "Grace Murray Hopper Award",
+            "Opera Canada Ruby"
+        ]
+    },
+    {
+        "name": "Hans Moravec",
+        "alma_mater": [
+            "Acadia University",
+            "University of Western Ontario",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Carroll Morgan (computer scientist)",
+        "alma_mater": [
+            "Ph.D.",
+            "University of Sydney"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert Tappan Morris",
+        "alma_mater": [
+            "Harvard University ",
+            "Cornell University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Joel Moses",
+        "alma_mater": [
+            "BA",
+            "MA",
+            "Columbia University",
+            "PhD",
+            "mathematics",
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Rajeev Motwani",
+        "alma_mater": [
+            "IIT Kanpur",
+            "B.Tech",
+            "C.S.",
+            "UC Berkeley",
+            "Ph.D.",
+            "C.S."
+        ],
+        "awards": [
+            "Gödel Prize"
+        ]
+    },
+    {
+        "name": "Oleg A. Mukhanov",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Stephen Muggleton",
+        "alma_mater": [
+            "University of Edinburgh"
+        ],
+        "awards": [
+            "FREng",
+            "FBCS",
+            "FIET",
+            "FAAAI"
+        ]
+    },
+    {
+        "name": "Klaus-Robert Müller",
+        "alma_mater": [
+            "University of Karlsruhe",
+            "Diplom",
+            "University of Karlsruhe"
+        ],
+        "awards": [
+            "Academy of Sciences Leopoldina"
+        ]
+    },
+    {
+        "name": "Alan Mycroft",
+        "alma_mater": [
+            "University of Cambridge",
+            "University of Edinburgh"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Brad A. Myers",
+        "alma_mater": [
+            "University of Toronto",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "SIGCHI",
+            "ACM Fellow",
+            "IEEE Fellow",
+            "CHI Academy"
+        ]
+    },
+    {
+        "name": "Mihai Nadin",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Makoto Nagao",
+        "alma_mater": [
+            "Kyoto University"
+        ],
+        "awards": [
+            "IEEE Emanuel R. Piore Award",
+            "ACL",
+            "Japan Prize"
+        ]
+    },
+    {
+        "name": "Frieder Nake",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Bonnie Nardi",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Peter Naur",
+        "alma_mater": [],
+        "awards": [
+            "Computer Pioneer Award",
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Roger Needham",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": [
+            "Faraday Medal"
+        ]
+    },
+    {
+        "name": "James G. Nell",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Greg Nelson (computer scientist)",
+        "alma_mater": [
+            "Harvard University",
+            "Stanford University"
+        ],
+        "awards": [
+            "Herbrand Award"
+        ]
+    },
+    {
+        "name": "Bernard de Neumann",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Klara Dan von Neumann",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John von Neumann",
+        "alma_mater": [
+            "Pázmány Péter University",
+            "University of Berlin",
+            "ETH Zürich"
+        ],
+        "awards": [
+            "Bôcher Memorial Prize",
+            "Navy Distinguished Civilian Service Award",
+            "Medal for Merit",
+            "Medal of Freedom",
+            "Enrico Fermi Award",
+            "Carl-Gustaf Rossby Research Medal"
+        ]
+    },
+    {
+        "name": "Allen Newell",
+        "alma_mater": [
+            "Stanford University",
+            "Princeton University",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "A.M. Turing Award",
+            "IJCAI Award for Research Excellence",
+            "IEEE Emanuel R. Piore Award",
+            "National Medal of Science",
+            "Louis E. Levy Medal"
+        ]
+    },
+    {
+        "name": "Max Newman",
+        "alma_mater": [
+            "St John's College, Cambridge"
+        ],
+        "awards": [
+            "Fellow of the Royal Society",
+            "Sylvester Medal",
+            "De Morgan Medal"
+        ]
+    },
+    {
+        "name": "Andrew Ng",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "Massachusetts Institute of Technology",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "Sloan Fellowship",
+            "MIT Technology Review",
+            null,
+            "IJCAI Computers and Thought Award",
+            null,
+            "Fortune",
+            "CNN",
+            "Fast Company",
+            "World Economic Forum"
+        ]
+    },
+    {
+        "name": "Nils John Nilsson",
+        "alma_mater": [
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "G.M. Nijssen",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Tobias Nipkow",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Maurice Nivat",
+        "alma_mater": [
+            "Joseph Fourier University"
+        ],
+        "awards": [
+            "French Academy of Sciences",
+            "Legion d'honneur",
+            "Ordre national du Mérite",
+            "Ordre des Palmes Académiques",
+            "EATCS",
+            "University of Bologna",
+            "University of Quebec at Montreal"
+        ]
+    },
+    {
+        "name": "Phiwa Nkambule",
+        "alma_mater": [
+            "University of Pretoria",
+            "Cefups Academy"
+        ],
+        "awards": [
+            "Forbes Africa 30 under 30",
+            "Destiny Man",
+            "Times"
+        ]
+    },
+    {
+        "name": "Jerre Noe",
+        "alma_mater": [
+            "UC Berkeley",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Peter Nordin",
+        "alma_mater": [
+            "University of Dortmund",
+            "Chalmers University of Technology",
+            "Göteborg University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Donald Norman",
+        "alma_mater": [
+            "MIT",
+            "University of Pennsylvania"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Peter Norvig",
+        "alma_mater": [
+            "Brown University",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "AAAI Fellow",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "George Novacky",
+        "alma_mater": [
+            "University of Pittsburgh"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Kristen Nygaard",
+        "alma_mater": [
+            "M.Sc.",
+            "University of Oslo"
+        ],
+        "awards": [
+            "Turing Award",
+            "IEEE John von Neumann Medal",
+            "Order of St. Olav",
+            "Norbert Wiener Award for Social and Professional Responsibility"
+        ]
+    },
+    {
+        "name": "Martin Odersky",
+        "alma_mater": [
+            "Ludwig Maximilian University of Munich",
+            "ETH Zurich"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Peter O'Hearn",
+        "alma_mater": [
+            "Dalhousie University",
+            "Queen's University"
+        ],
+        "awards": [
+            "Doctor of Laws",
+            "Dalhousie University",
+            "Fellow of the Royal Society",
+            "Gödel Prize",
+            "Fellow of the Royal Academy of Engineering",
+            "Royal Society Wolfson Research Merit Award"
+        ]
+    },
+    {
+        "name": "T. William Olle",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Steve Omohundro",
+        "alma_mater": [
+            "Stanford University",
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Severo Ornstein",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John O'Sullivan (engineer)",
+        "alma_mater": [],
+        "awards": [
+            "Prime Minister's Prize for Science",
+            "M. A. Sargent Medal"
+        ]
+    },
+    {
+        "name": "John Ousterhout",
+        "alma_mater": [
+            "Bachelor's degree",
+            "Ph.D"
+        ],
+        "awards": [
+            "Grace Murray Hopper Award",
+            "ACM Software System Award"
+        ]
+    },
+    {
+        "name": "Mark Overmars",
+        "alma_mater": [
+            "Utrecht University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Susan Owicki",
+        "alma_mater": [
+            "Cornell University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Larry Page",
+        "alma_mater": [
+            "University of Michigan",
+            "BS",
+            "Stanford University",
+            "MS"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Sankar Pal",
+        "alma_mater": [
+            "Rajabazar Science College",
+            "University of Calcutta",
+            "Indian Statistical Institute",
+            "Imperial College London"
+        ],
+        "awards": [
+            "Padma Shri",
+            "Shanti Swarup Bhatnagar Prize"
+        ]
+    },
+    {
+        "name": "Paritosh Pandya",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Christos Papadimitriou",
+        "alma_mater": [
+            "Athens Polytechnic",
+            "Princeton University"
+        ],
+        "awards": [
+            "Von Neumann Medal",
+            "EATCS Award",
+            "Gödel Prize",
+            "IEEE Computer Society Charles Babbage Award",
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "David Park (computer scientist)",
+        "alma_mater": [
+            "University of Oxford",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David Parnas",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "DJ Patil",
+        "alma_mater": [
+            "University of California, San Diego",
+            "BA",
+            "University of Maryland College Park",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Yale Patt",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "David Patterson (computer scientist)",
+        "alma_mater": [
+            "University of California, Los Angeles"
+        ],
+        "awards": [
+            "Charles Stark Draper Prize",
+            "Turing Award",
+            "Eckert–Mauchly Award",
+            "Member of the National Academy of Sciences",
+            "Fellow of the American Association for the Advancement of Science",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Mike Paterson",
+        "alma_mater": [
+            "Ph.D.",
+            "University of Cambridge"
+        ],
+        "awards": [
+            "Dijkstra Prize",
+            "EATCS Award"
+        ]
+    },
+    {
+        "name": "Mihai Pătrașcu (computer scientist)",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Lawrence Paulson",
+        "alma_mater": [
+            "California Institute of Technology",
+            "Stanford University"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Randy Pausch",
+        "alma_mater": [
+            "Brown University",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "Special Interest Group on Computer Science Education",
+            "ACM",
+            "Time",
+            "Time 100"
+        ]
+    },
+    {
+        "name": "Juan Pavón",
+        "alma_mater": [
+            "Technical University of Madrid",
+            "Université Pierre et Marie Curie"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Judea Pearl",
+        "alma_mater": [
+            "Technion – Israel Institute of Technology",
+            "New Jersey Institute of Technology",
+            "Rutgers University",
+            "New York University Tandon School of Engineering"
+        ],
+        "awards": [
+            "IJCAI Award for Research Excellence",
+            "Turing Award",
+            "Rumelhart Prize",
+            "Harvey Prize",
+            "BBVA Foundation Frontiers of Knowledge Award"
+        ]
+    },
+    {
+        "name": "Alan Perlis",
+        "alma_mater": [
+            "Chemistry",
+            "Carnegie Mellon",
+            "MIT"
+        ],
+        "awards": [
+            "Turing Award",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Radia Perlman",
+        "alma_mater": [
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Pier Giorgio Perotto",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Rózsa Péter",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Simon Peyton Jones",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Kathy Pham",
+        "alma_mater": [
+            "Georgia Institute of Technology",
+            "Supélec",
+            "MIT Media Lab",
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Roberto Pieraccini",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Keshav K Pingali",
+        "alma_mater": [
+            "IIT Kanpur",
+            "MIT"
+        ],
+        "awards": [
+            "IEEE Charles Babbage Award",
+            "ACM/IEEE CS Ken Kennedy Award",
+            "Member of the Academia Europaea"
+        ]
+    },
+    {
+        "name": "Gordon Plotkin",
+        "alma_mater": [
+            "University of Glasgow",
+            "University of Edinburgh"
+        ],
+        "awards": [
+            "Milner Award",
+            "Royal Society Wolfson Research Merit Award",
+            "EATCS Award"
+        ]
+    },
+    {
+        "name": "Amir Pnueli",
+        "alma_mater": [],
+        "awards": [
+            "Turing Award",
+            "Israel Prize"
+        ]
+    },
+    {
+        "name": "Willem van der Poel",
+        "alma_mater": [
+            "Delft University of Technology",
+            "B.S.",
+            "University of Amsterdam",
+            "Ph.D."
+        ],
+        "awards": [
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Cicely Popplewell",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Emil Post",
+        "alma_mater": [
+            "City College of New York",
+            "Columbia University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jon Postel",
+        "alma_mater": [
+            "University of California, Los Angeles",
+            "BS",
+            "MS",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Franco Preparata",
+        "alma_mater": [
+            "University of Rome"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "William H. Press",
+        "alma_mater": [
+            "Harvard University",
+            "California Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Rapelang Rabana",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Grzegorz Rozenberg",
+        "alma_mater": [
+            "Polish Academy of Sciences"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Michael O. Rabin",
+        "alma_mater": [
+            "Hebrew University of Jerusalem",
+            "MSc",
+            "University of Pennsylvania",
+            "Princeton University",
+            "PhD"
+        ],
+        "awards": [
+            "Turing Award",
+            "Harvey Prize",
+            "Gibbs lecture",
+            "Israel Prize",
+            "IEEE Computer Society Charles Babbage Award",
+            "Paris Kanellakis Award",
+            "EMET Prize",
+            "Gödel Lecture",
+            "Dan David Prize",
+            "Dijkstra Prize"
+        ]
+    },
+    {
+        "name": "Dragomir R. Radev",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "T. V. Raman",
+        "alma_mater": [],
+        "awards": [
+            "ACM Doctoral Dissertation Award"
+        ]
+    },
+    {
+        "name": "Brian Randell",
+        "alma_mater": [
+            "Imperial College London"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Anders P. Ravn",
+        "alma_mater": [
+            "University of Copenhagen",
+            "Technical University of Denmark"
+        ],
+        "awards": [
+            "Order of the Dannebrog"
+        ]
+    },
+    {
+        "name": "Raj Reddy",
+        "alma_mater": [
+            "University of Madras",
+            "BE",
+            "University of New South Wales",
+            "MTech",
+            "Stanford University",
+            "PhD"
+        ],
+        "awards": [
+            "Legion of Honor",
+            "Turing Award",
+            "Padma Bhushan",
+            "Vannevar Bush Award"
+        ]
+    },
+    {
+        "name": "David P. Reed",
+        "alma_mater": [
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Trygve Reenskaug",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John C. Reynolds",
+        "alma_mater": [
+            "Purdue University",
+            "Ph.D.",
+            "Harvard University"
+        ],
+        "awards": [
+            "Lovelace Medal"
+        ]
+    },
+    {
+        "name": "Joyce K. Reynolds",
+        "alma_mater": [
+            "University of Southern California"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Reinder van de Riet",
+        "alma_mater": [
+            "University of Amsterdam",
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Bernard Richards",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Martin Richards (computer scientist)",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Adam Riese",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "C. J. van Rijsbergen",
+        "alma_mater": [
+            "University of Western Australia",
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Dennis Ritchie",
+        "alma_mater": [
+            "Harvard University",
+            "BS"
+        ],
+        "awards": [
+            "IEEE Emanuel R. Piore Award",
+            "Turing Award",
+            "National Medal of Technology",
+            "IEEE Richard W. Hamming Medal",
+            "Computer Pioneer Award",
+            "Computer History Museum",
+            "Harold Pender Award",
+            "Japan Prize"
+        ]
+    },
+    {
+        "name": "Ron Rivest",
+        "alma_mater": [
+            "Stanford University",
+            "Yale University"
+        ],
+        "awards": [
+            "Paris Kanellakis Award",
+            "Turing Award",
+            "Marconi Prize",
+            "BBVA Foundation Frontiers of Knowledge Awards",
+            "National Inventors Hall of Fame"
+        ]
+    },
+    {
+        "name": "Ken Robinson (computer scientist)",
+        "alma_mater": [
+            "University of Sydney"
+        ],
+        "awards": [
+            "University of New South Wales"
+        ]
+    },
+    {
+        "name": "Colette Rolland",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John Romero",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Azriel Rosenfeld",
+        "alma_mater": [],
+        "awards": [
+            "IEEE Emanuel R. Piore Award",
+            "King-Sun Fu"
+        ]
+    },
+    {
+        "name": "Douglas T. Ross",
+        "alma_mater": [
+            "Oberlin College",
+            "B.Sc.",
+            "Massachusetts Institute of Technology",
+            "M.Sc."
+        ],
+        "awards": [
+            "Joseph Marie Jacquard",
+            "Society of Manufacturing Engineers"
+        ]
+    },
+    {
+        "name": "Guido van Rossum",
+        "alma_mater": [
+            "University of Amsterdam"
+        ],
+        "awards": [
+            "Award for the Advancement of Free Software"
+        ]
+    },
+    {
+        "name": "M. A. Rothman",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Winston W. Royce",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Rudy Rucker",
+        "alma_mater": [
+            "St. Xavier High School",
+            "Swarthmore College",
+            "BA",
+            "Rutgers University",
+            "MS",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Steven Rudich",
+        "alma_mater": [],
+        "awards": [
+            "Gödel Prize"
+        ]
+    },
+    {
+        "name": "Jeff Rulifson",
+        "alma_mater": [
+            "University of Washington",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "James Rumbaugh",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Peter Ružička",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "George Sadowsky",
+        "alma_mater": [
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Mehrnoosh Sadrzadeh",
+        "alma_mater": [
+            "Université du Québec à Montréal",
+            "Sharif University of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Umar Saif",
+        "alma_mater": [
+            "Lahore University of Management Sciences",
+            "University of Cambridge",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Gerard Salton",
+        "alma_mater": [
+            "Brooklyn College",
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jean E. Sammet",
+        "alma_mater": [
+            "Mount Holyoke College",
+            "B.A.",
+            "University of Illinois at Urbana Champaign",
+            "M.A.",
+            "Columbia University"
+        ],
+        "awards": [
+            "Ada Lovelace Award",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Claude Sammut",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Carl Sassenrath",
+        "alma_mater": [
+            "University of California, Davis"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Mahadev Satyanarayanan",
+        "alma_mater": [
+            "Carnegie Mellon University (Ph.D.)",
+            "IIT Madras (M.Tech., B.Tech.)"
+        ],
+        "awards": [
+            "ACM Software System Award",
+            "ACM SIGOPS Hall of Fame Award",
+            "ACM SIGMOBILE Test-of-Time Award",
+            "ACM Fellow",
+            "IEEE Fellow"
+        ]
+    },
+    {
+        "name": "Walter Savitch",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jonathan Schaeffer",
+        "alma_mater": [
+            "University of Waterloo",
+            "University of Toronto"
+        ],
+        "awards": [
+            "AAAI",
+            "Alberta Centennial Medal"
+        ]
+    },
+    {
+        "name": "Wilhelm Schickard",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jürgen Schmidhuber",
+        "alma_mater": [
+            "Technical University of Munich"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Steve Schneider (computer scientist)",
+        "alma_mater": [
+            "University of Oxford"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Bruce Schneier",
+        "alma_mater": [
+            "American University",
+            "University of Rochester"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Fred B. Schneider",
+        "alma_mater": [
+            "Stony Brook University"
+        ],
+        "awards": [
+            "IEEE Emanuel R. Piore Award"
+        ]
+    },
+    {
+        "name": "Sarita Schoenebeck",
+        "alma_mater": [
+            "Georgia Institute of Technology",
+            "University of California, Berkeley",
+            "Dartmouth College"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Glenda Schroeder",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Bernhard Schölkopf",
+        "alma_mater": [
+            "University of London",
+            "University of Tübingen",
+            "TU Berlin"
+        ],
+        "awards": [
+            "BBVA Foundation Frontiers of Knowledge Awards",
+            "Körber European Science Prize",
+            "Leibniz Prize",
+            "Milner Award",
+            "Max Planck Research Award (2011)"
+        ]
+    },
+    {
+        "name": "Dana Scott",
+        "alma_mater": [
+            "UC Berkeley",
+            "Princeton University"
+        ],
+        "awards": [
+            "Leroy P. Steele Prize",
+            "Turing Award",
+            "Tarski Lectures",
+            "Harold Pender Award",
+            "Gödel Lecture",
+            "Rolf Schock Prize"
+        ]
+    },
+    {
+        "name": "Michael L. Scott",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Robert Sedgewick (computer scientist)",
+        "alma_mater": [
+            "Brown University"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "Leroy P. Steele Prize"
+        ]
+    },
+    {
+        "name": "Ravi Sethi",
+        "alma_mater": [
+            "Indian Institute of Technology, Kanpur",
+            "Princeton University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Nigel Shadbolt",
+        "alma_mater": [
+            "Newcastle University",
+            "University of Edinburgh"
+        ],
+        "awards": [
+            "Knight Bachelor"
+        ]
+    },
+    {
+        "name": "Adi Shamir",
+        "alma_mater": [
+            "Tel Aviv University",
+            "Weizmann Institute of Science"
+        ],
+        "awards": [
+            "Erdős Prize",
+            "Paris Kanellakis Award",
+            "Turing Award",
+            "Foreign Associate of the National Academy of Sciences",
+            "Israel Prize",
+            "Foreign Member of the Royal Society"
+        ]
+    },
+    {
+        "name": "Claude Shannon",
+        "alma_mater": [
+            "University of Michigan",
+            "AB",
+            "BS",
+            "Massachusetts Institute of Technology",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "Stuart Ballantine Medal",
+            "IEEE Medal of Honor",
+            "National Medal of Science",
+            "Harvey Prize",
+            "Claude E. Shannon Award",
+            "Harold Pender Award",
+            "John Fritz Medal",
+            "Kyoto Prize",
+            "Marconi Society Lifetime Achievement Award",
+            "National Inventors Hall of Fame"
+        ]
+    },
+    {
+        "name": "David E. Shaw",
+        "alma_mater": [
+            "University of California, San Diego",
+            "BS",
+            "Stanford University",
+            "MS",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Cliff Shaw",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Scott Shenker",
+        "alma_mater": [
+            "Brown University",
+            "University of Chicago"
+        ],
+        "awards": [
+            "National Academy of Engineering",
+            "IEEE",
+            "ACM Fellow",
+            "IEEE",
+            "Paris Kanellakis Award"
+        ]
+    },
+    {
+        "name": "Shashi Shekhar (scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Ben Shneiderman",
+        "alma_mater": [
+            "City College of New York",
+            "Stony Brook University"
+        ],
+        "awards": [
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Edward H. Shortliffe",
+        "alma_mater": [
+            "Harvard University",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Daniel Siewiorek",
+        "alma_mater": [
+            "University of Michigan",
+            "B.A.",
+            "Stanford University",
+            "M.A.",
+            "Ph.D."
+        ],
+        "awards": [
+            "Eckert–Mauchly Award",
+            "Taylor L. Booth Education Award"
+        ]
+    },
+    {
+        "name": "Joseph Sifakis",
+        "alma_mater": [
+            "National Technical University of Athens",
+            "University of Grenoble"
+        ],
+        "awards": [
+            "National Technical University of Athens",
+            "University of Grenoble"
+        ]
+    },
+    {
+        "name": "Herbert A. Simon",
+        "alma_mater": [
+            "University of Chicago"
+        ],
+        "awards": [
+            "Member of the National Academy of Sciences",
+            "APA Award for Distinguished Scientific Contributions to Psychology",
+            "Turing Award",
+            "Nobel Prize in Economics",
+            "National Medal of Science",
+            "Harold Pender Award",
+            "von Neumann Theory Prize",
+            "APA Award for Lifetime Contributions to Psychology",
+            "ACM Fellow",
+            "IJCAI Award for Research Excellence"
+        ]
+    },
+    {
+        "name": "Munindar P. Singh",
+        "alma_mater": [
+            "University of Texas at Austin",
+            "Indian Institute of Technology Delhi"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "AAAS",
+            "ACM",
+            "SIGAI",
+            "AAAI",
+            "IEEE"
+        ]
+    },
+    {
+        "name": "Ramesh Sitaraman",
+        "alma_mater": [
+            "Indian Institute of Technology, Madras",
+            "Princeton University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Daniel Sleator",
+        "alma_mater": [
+            "University of Illinois at Urbana–Champaign",
+            "Stanford University"
+        ],
+        "awards": [
+            "Paris Kanellakis Award"
+        ]
+    },
+    {
+        "name": "Aaron Sloman",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Arne Sølvberg",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Brian Cantwell Smith",
+        "alma_mater": [
+            "MIT"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David Canfield Smith",
+        "alma_mater": [
+            "Oberlin College",
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Steven Spewak",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Carol Spradling",
+        "alma_mater": [
+            "University of Nebraska - Lincoln"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Robert Sproull",
+        "alma_mater": [
+            "Deep Springs College",
+            "Cornell University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Rohini Kesavan Srihari",
+        "alma_mater": [
+            "University of Waterloo",
+            "University at Buffalo"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Sargur Srihari",
+        "alma_mater": [
+            "Bangalore University",
+            "Indian Institute of Science",
+            "Ohio State University"
+        ],
+        "awards": [
+            "IEEE",
+            "IAPR"
+        ]
+    },
+    {
+        "name": "Maciej Stachowiak",
+        "alma_mater": [
+            "Course 6 - Electrical Engineering and Computer Science",
+            "S.B.",
+            "M.Eng."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Richard Stallman",
+        "alma_mater": [
+            "Harvard University",
+            "BS",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "MacArthur Fellowship",
+            "ACM Grace Murray Hopper Award",
+            "EFF Pioneer Award",
+            "ACM Software System Award",
+            "Internet Hall of Fame"
+        ]
+    },
+    {
+        "name": "Ronald Stamper",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Thad Starner",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Richard E. Stearns",
+        "alma_mater": [
+            "Carleton College",
+            "Princeton University"
+        ],
+        "awards": [
+            "ACM",
+            "Turing Award",
+            "Frederick W. Lanchester Prize"
+        ]
+    },
+    {
+        "name": "Guy L. Steele, Jr.",
+        "alma_mater": [
+            "BA",
+            "Harvard University",
+            "MS",
+            "PhD",
+            "MIT"
+        ],
+        "awards": [
+            "ACM Grace Murray Hopper Award",
+            "Harry H. Goode Memorial Award"
+        ]
+    },
+    {
+        "name": "Thomas Sterling (computing)",
+        "alma_mater": [
+            "Old Dominion University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "Fellow at American Association for Advancement of Science",
+            "Senior Member of Institute for Electrical and Electronic Engineering",
+            "Gordon Bell Prize",
+            "Vanguard Award",
+            "Fellow of International Supercomputing Conference",
+            "Hertz Fellowship"
+        ]
+    },
+    {
+        "name": "Alexander Stepanov",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "W. Richard Stevens",
+        "alma_mater": [
+            "University of Michigan",
+            "University of Arizona"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Larry Stockmeyer",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Salvatore Stolfo",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Michael Stonebraker",
+        "alma_mater": [
+            "Princeton University",
+            "University of Michigan"
+        ],
+        "awards": [
+            "IEEE John von Neumann Medal",
+            "ACM Turing Award"
+        ]
+    },
+    {
+        "name": "Olaf Storaasli (computing)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Christopher Strachey",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Volker Strassen",
+        "alma_mater": [
+            "University of Göttingen"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "alma_mater": [
+            "Aarhus University",
+            "Cand.scient.",
+            "University of Cambridge",
+            "PhD"
+        ],
+        "awards": [
+            "Grace Murray Hopper Award",
+            "ACM Fellow",
+            "IEEE Fellow",
+            "William Procter Prize for Scientific Achievement",
+            "Dr. Dobb's Excellence Award",
+            "Dahl–Nygaard Prize",
+            "CHM Fellow",
+            "IET Faraday Medal",
+            "Charles Stark Draper Prize",
+            "Computer Pioneer Award",
+            "John Scott Medal"
+        ]
+    },
+    {
+        "name": "Madhu Sudan",
+        "alma_mater": [
+            "IIT Delhi",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Gödel Prize"
+        ]
+    },
+    {
+        "name": "Gerald Jay Sussman",
+        "alma_mater": [
+            "SB",
+            "PhD"
+        ],
+        "awards": [
+            "IJCAI Computers and Thought Award",
+            "ACM Fellow"
+        ]
+    },
+    {
+        "name": "Bert Sutherland",
+        "alma_mater": [
+            "RPI",
+            "MIT"
+        ],
+        "awards": [
+            "Legion of Merit"
+        ]
+    },
+    {
+        "name": "Ivan Sutherland",
+        "alma_mater": [
+            "MIT",
+            "Caltech",
+            "Carnegie Institute of Technology"
+        ],
+        "awards": [
+            "Turing Award",
+            "Computer Pioneer Award",
+            "IEEE John von Neumann Medal",
+            "Association for Computing Machinery",
+            "National Academy of Engineering",
+            "National Academy of Sciences",
+            "Kyoto Prize",
+            "Computer History Museum"
+        ]
+    },
+    {
+        "name": "Latanya Sweeney",
+        "alma_mater": [
+            "Harvard University",
+            "ALB",
+            "MIT",
+            "SM",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Mario Szegedy",
+        "alma_mater": [
+            "University of Chicago"
+        ],
+        "awards": [
+            "Gödel Prize"
+        ]
+    },
+    {
+        "name": "Parisa Tabriz",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Roberto Tamassia",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Andrew S. Tanenbaum",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Austin Tate",
+        "alma_mater": [
+            "Lancaster University",
+            "University of Edinburgh"
+        ],
+        "awards": [
+            "AAAI Fellow"
+        ]
+    },
+    {
+        "name": "Bernhard Thalheim",
+        "alma_mater": [
+            "Dresden University of Technology",
+            "Lomonosov Moscow State University"
+        ],
+        "awards": [
+            "Peter P. Chen Award",
+            "Elsevier"
+        ]
+    },
+    {
+        "name": "Éva Tardos",
+        "alma_mater": [
+            "Eötvös Loránd University"
+        ],
+        "awards": [
+            "Fulkerson Prize",
+            "Dantzig Prize",
+            "Gödel Prize",
+            "EATCS Award",
+            "IEEE John von Neumann Medal"
+        ]
+    },
+    {
+        "name": "Gábor Tardos",
+        "alma_mater": [
+            "Eötvös Loránd University"
+        ],
+        "awards": [
+            "Gödel Prize",
+            "Erdős Prize",
+            "Alfréd Rényi Prize",
+            "EMS Prize"
+        ]
+    },
+    {
+        "name": "Robert Tarjan",
+        "alma_mater": [
+            "California Institute of Technology",
+            "BS",
+            "Stanford University",
+            "MS",
+            "PhD"
+        ],
+        "awards": [
+            "Paris Kanellakis Award",
+            "Turing Award",
+            "Nevanlinna Prize"
+        ]
+    },
+    {
+        "name": "Valerie Taylor (computer scientist)",
+        "alma_mater": [
+            "Purdue University",
+            "University of California at Berkeley"
+        ],
+        "awards": [
+            "Harriett B. Rigas",
+            "A. Nico Habermann Award",
+            null
+        ]
+    },
+    {
+        "name": "Mario Tchou",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Jaime Teevan",
+        "alma_mater": [
+            "Yale University",
+            "BS",
+            "Massachusetts Institute of Technology",
+            "PhD"
+        ],
+        "awards": [
+            "TR35",
+            "Karen Spärck Jones",
+            "ACM Fellow",
+            "CHI Academy",
+            "TIME 100"
+        ]
+    },
+    {
+        "name": "Shang-Hua Teng",
+        "alma_mater": [
+            "Shanghai Jiao Tong University",
+            "University of Southern California",
+            "Carnegie Mellon"
+        ],
+        "awards": [
+            "Gödel Prize",
+            "Fulkerson Prize"
+        ]
+    },
+    {
+        "name": "Larry Tesler",
+        "alma_mater": [
+            "Stanford University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Avie Tevanian",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Charles P. Thacker",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "IEEE John von Neumann Medal",
+            "Turing Award",
+            "Computer History Museum",
+            "Eckert–Mauchly Award"
+        ]
+    },
+    {
+        "name": "Daniel Thalmann",
+        "alma_mater": [
+            "University of Geneva"
+        ],
+        "awards": [
+            "Paul-Sabatier University"
+        ]
+    },
+    {
+        "name": "Ken Thompson",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "IEEE Emanuel R. Piore Award",
+            "Turing Award",
+            "Member of the National Academy of Sciences",
+            "IEEE Richard W. Hamming Medal",
+            "Computer Pioneer Award",
+            "National Medal of Technology",
+            "Tsutomu Kanai Award",
+            "Harold Pender Award",
+            "Japan Prize"
+        ]
+    },
+    {
+        "name": "Simon Thompson (professor)",
+        "alma_mater": [
+            "D.Phil.",
+            "University of Oxford"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Sebastian Thrun",
+        "alma_mater": [
+            "University of Bonn",
+            "University of Hildesheim"
+        ],
+        "awards": [
+            "National Science Foundation CAREER Award",
+            "AAAI Fellow",
+            "DARPA Grand Challenge"
+        ]
+    },
+    {
+        "name": "Walter F. Tichy",
+        "alma_mater": [
+            "Technische Universität München",
+            "Carnegie Mellon University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Seinosuke Toda",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Chai Keong Toh",
+        "alma_mater": [
+            "University of Cambridge",
+            "University of Manchester"
+        ],
+        "awards": [
+            "IEEE Kiyo Tomiyasu Award",
+            "IET Achievement Medals",
+            "IEEE Fellow",
+            "AAAS Fellow",
+            "IET Fellow",
+            "BCS",
+            "FREng"
+        ]
+    },
+    {
+        "name": "Linus Torvalds",
+        "alma_mater": [
+            "University of Helsinki"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Leonardo Torres Quevedo",
+        "alma_mater": [
+            "Official School of the Road Engineers' Corps of Madrid",
+            "es"
+        ],
+        "awards": [
+            "Civil Order of Alfonso XII",
+            "Echegaray Medal",
+            "Order of Charles III",
+            "Military Order of Saint James of the Sword",
+            "Legion of Honour",
+            "Honorary degree",
+            "Order of the Spanish Republic"
+        ]
+    },
+    {
+        "name": "Godfried Toussaint",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Gloria Townsend",
+        "alma_mater": [
+            "Indiana University"
+        ],
+        "awards": [
+            "SIGCSE Award for Lifetime Service to Computer Science Education"
+        ]
+    },
+    {
+        "name": "Edwin E. Tozer",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Joseph F Traub",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John V. Tucker",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "John Tukey",
+        "alma_mater": [
+            "Brown University",
+            "Princeton University"
+        ],
+        "awards": [
+            "Wilks Memorial Award",
+            "National Medal of Science",
+            "Shewhart Medal",
+            "IEEE Medal of Honor",
+            "Deming Medal",
+            "James Madison Medal",
+            "Foreign Member of the Royal Society"
+        ]
+    },
+    {
+        "name": "Alan Turing",
+        "alma_mater": [
+            "University of Cambridge",
+            "BA",
+            "MA",
+            "Princeton University"
+        ],
+        "awards": [
+            "Smith's Prize"
+        ]
+    },
+    {
+        "name": "David Turner (computer scientist)",
+        "alma_mater": [
+            "D.Phil.",
+            "University of Oxford"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Murray Turoff",
+        "alma_mater": [
+            "University of California - Berkeley",
+            "Brandeis University"
+        ],
+        "awards": [
+            "EFF Pioneer Award"
+        ]
+    },
+    {
+        "name": "Jeffrey D. Ullman",
+        "alma_mater": [
+            "Columbia University",
+            "Princeton University"
+        ],
+        "awards": [
+            "Knuth Prize",
+            "IEEE John von Neumann Medal",
+            "Turing Award"
+        ]
+    },
+    {
+        "name": "Leslie Valiant",
+        "alma_mater": [
+            "University of Cambridge",
+            "Imperial College London",
+            "University of Warwick"
+        ],
+        "awards": [
+            "Turing Award",
+            "EATCS Award",
+            "Member of the National Academy of Sciences",
+            "Knuth Prize",
+            "AAAI Fellow",
+            "Nevanlinna Prize"
+        ]
+    },
+    {
+        "name": "Vladimir Vapnik",
+        "alma_mater": [
+            "Institute of Control Sciences, Russian Academy of Sciences",
+            "Uzbek State University"
+        ],
+        "awards": [
+            "Kolmogorov Medal",
+            "IEEE John von Neumann Medal",
+            "Kampé de Fériet",
+            "C&C Prize",
+            "Benjamin Franklin Medal",
+            "IEEE Frank Rosenblatt Award",
+            "IEEE Neural Networks Pioneer Award",
+            "Paris Kanellakis Award",
+            "National Academy of Engineering",
+            "Gabor Award, International Neural Network Society",
+            "Alexander Humboldt Research Award"
+        ]
+    },
+    {
+        "name": "Moshe Vardi",
+        "alma_mater": [
+            "Bar-Ilan University",
+            "Weizmann Institute of Science",
+            "Hebrew University of Jerusalem"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "Gödel Prize",
+            "AAAI Fellow",
+            "Paris Kanellakis Award",
+            "Harry H. Goode Memorial Award",
+            "Member of the National Academy of Sciences",
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Dorothy Vaughan",
+        "alma_mater": [
+            "Wilberforce University",
+            "BA"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Bernard Vauquois",
+        "alma_mater": [
+            "Ph.D."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Umesh Vazirani",
+        "alma_mater": [
+            "MIT",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "Fulkerson Prize"
+        ]
+    },
+    {
+        "name": "Manuela M. Veloso",
+        "alma_mater": [
+            "Instituto Superior Técnico",
+            "University of Lisbon",
+            "Boston University",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "National Science Foundation CAREER Award",
+            "ACM Fellow",
+            "AAAI Fellow"
+        ]
+    },
+    {
+        "name": "François Vernadat",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Richard Veryard",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Sergiy Vilkomir",
+        "alma_mater": [
+            "Kharkov State University",
+            "Kharkov Polytechnic Institute"
+        ],
+        "awards": [
+            "Google",
+            "UNC"
+        ]
+    },
+    {
+        "name": "Paul Vitanyi",
+        "alma_mater": [
+            "Delft University of Technology",
+            "Free University of Amsterdam"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Andrew Viterbi",
+        "alma_mater": [
+            "Massachusetts Institute of Technology",
+            "BS",
+            "MS",
+            "University of Southern California",
+            "PhD"
+        ],
+        "awards": [
+            "IEEE Alexander Graham Bell Medal",
+            "Marconi Prize",
+            "Claude E. Shannon Award",
+            "National Medal of Science",
+            "IEEE/RSE James Clerk Maxwell Medal",
+            "Millennium Technology Prize",
+            "IEEE Medal of Honor",
+            "John Fritz Medal"
+        ]
+    },
+    {
+        "name": "Jeffrey Scott Vitter",
+        "alma_mater": [
+            "University of Notre Dame",
+            "BS",
+            "Duke University",
+            "MBA",
+            "Stanford University",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Paul Vixie",
+        "alma_mater": [
+            "Keio University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Eiiti Wada",
+        "alma_mater": [
+            "University of Tokyo"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David A. Wagner",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "David Waltz",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "ACM Fellow",
+            "AAAI Fellow"
+        ]
+    },
+    {
+        "name": "James Z. Wang",
+        "alma_mater": [
+            "Stanford University",
+            "M.S.",
+            "M.S.",
+            "Ph.D.",
+            "University of Minnesota",
+            "B.S."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Steve Ward (computer scientist)",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Manfred K. Warmuth",
+        "alma_mater": [
+            "University of Colorado, Boulder"
+        ],
+        "awards": [
+            "Leopoldina"
+        ]
+    },
+    {
+        "name": "David H. D. Warren",
+        "alma_mater": [
+            "University of Edinburgh"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Kevin Warwick",
+        "alma_mater": [
+            "Aston University",
+            "Imperial College London"
+        ],
+        "awards": [
+            "FIET",
+            "Royal Institution Christmas Lectures",
+            "Mountbatten Medal",
+            "Ellison-Cliffe Medal"
+        ]
+    },
+    {
+        "name": "Jan Weglarz",
+        "alma_mater": [
+            "Poznań University of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Philip Wadler",
+        "alma_mater": [
+            "Stanford University",
+            "Carnegie Mellon University"
+        ],
+        "awards": [
+            "Fellow of the Royal Society of Edinburgh",
+            "ACM Fellow",
+            "ACM Distinguished Service Award",
+            "Fellow of the Royal Society"
+        ]
+    },
+    {
+        "name": "Peter Wegner",
+        "alma_mater": [],
+        "awards": [
+            "ACM",
+            "Austrian Cross of Honour for Science and Art, First Class"
+        ]
+    },
+    {
+        "name": "Joseph Henry Wegstein",
+        "alma_mater": [
+            "University of Illinois",
+            "B.S.",
+            "M.S."
+        ],
+        "awards": []
+    },
+    {
+        "name": "Peter J. Weinberger",
+        "alma_mater": [
+            "University of California, Berkeley"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Mark Weiser",
+        "alma_mater": [
+            "New College of Florida",
+            "University of Michigan",
+            "MA",
+            "PhD"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Joseph Weizenbaum",
+        "alma_mater": [
+            "Wayne State University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "David Wheeler (computer scientist)",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": [
+            "Fellow of the Royal Society",
+            "Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Franklin H. Westervelt",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Steve Whittaker",
+        "alma_mater": [],
+        "awards": [
+            "SIGCHI",
+            "Association for Computing Machinery",
+            "SIGCHI"
+        ]
+    },
+    {
+        "name": "Jennifer Widom",
+        "alma_mater": [
+            "Cornell University",
+            "Indiana University Jacobs School of Music"
+        ],
+        "awards": [
+            "Erna Hamburger Prize",
+            "ACM",
+            "American Academy of Arts & Sciences",
+            "National Academy of Engineering",
+            "ACM Fellow",
+            "Guggenheim Foundation Fellow"
+        ]
+    },
+    {
+        "name": "Gio Wiederhold",
+        "alma_mater": [
+            "University of California, San Francisco"
+        ],
+        "awards": [
+            "IEEE Fellow",
+            "ACM Fellow",
+            "Fellow of the ACMI"
+        ]
+    },
+    {
+        "name": "Norbert Wiener",
+        "alma_mater": [
+            "Tufts College",
+            "BA",
+            "Cornell University",
+            "MA",
+            "Harvard University",
+            "PhD"
+        ],
+        "awards": [
+            "Bôcher Memorial Prize",
+            "National Medal of Science"
+        ]
+    },
+    {
+        "name": "Adriaan van Wijngaarden",
+        "alma_mater": [
+            "Delft University of Technology"
+        ],
+        "awards": [
+            "IEEE Computer Pioneer Award"
+        ]
+    },
+    {
+        "name": "Mary Allen Wilkes",
+        "alma_mater": [
+            "Wellesley College",
+            "Harvard Law School"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Maurice Vincent Wilkes",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": [
+            "Turing Award",
+            "Distinguished Fellow of the British Computer Society",
+            "Faraday Medal",
+            "Harold Pender Award",
+            "Mountbatten Medal"
+        ]
+    },
+    {
+        "name": "Yorick Wilks",
+        "alma_mater": [
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "James H. Wilkinson",
+        "alma_mater": [
+            "Trinity College, Cambridge"
+        ],
+        "awards": [
+            "Chauvenet Prize",
+            "ACM Turing Award",
+            "FRS"
+        ]
+    },
+    {
+        "name": "Sophie Wilson",
+        "alma_mater": [
+            "Selwyn College, Cambridge",
+            "University of Cambridge"
+        ],
+        "awards": [
+            "Fellow of the Royal Academy of Engineering",
+            "Computer History Museum",
+            "Fellow of the Royal Society",
+            "Fellow of Selwyn College",
+            "Honorary Doctorate",
+            "Distinguished Fellow of the British Computer Society"
+        ]
+    },
+    {
+        "name": "Shmuel Winograd",
+        "alma_mater": [
+            "New York University",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Terry Winograd",
+        "alma_mater": [
+            "Colorado College",
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": [
+            "IJCAI Computers and Thought Award"
+        ]
+    },
+    {
+        "name": "Patrick Winston",
+        "alma_mater": [
+            "MIT"
+        ],
+        "awards": [
+            "IJCAI Computers and Thought Award"
+        ]
+    },
+    {
+        "name": "Niklaus Wirth",
+        "alma_mater": [
+            "BS",
+            "MSc",
+            "Université Laval",
+            "University of California, Berkeley"
+        ],
+        "awards": [
+            "IEEE Emanuel R. Piore Award",
+            "Turing Award",
+            "SIGPLAN",
+            "Computer History Museum",
+            "Marcel Benoist Prize"
+        ]
+    },
+    {
+        "name": "Neil Wiseman",
+        "alma_mater": [
+            "University of Cambridge",
+            "University of Illinois",
+            "Queen Mary College"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Dennis E. Wisnosky",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Stephen Wolfram",
+        "alma_mater": [
+            "St. John's College, Oxford",
+            "California Institute of Technology"
+        ],
+        "awards": [
+            "MacArthur Fellowship"
+        ]
+    },
+    {
+        "name": "Mike Woodger",
+        "alma_mater": [
+            "University College London"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Philip Woodward",
+        "alma_mater": [
+            "Oxford University"
+        ],
+        "awards": [
+            "Royal Academy of Engineering",
+            "IEEE Dennis J. Picard Medal for Radar Technologies and Applications",
+            "Worshipful Company of Clockmakers"
+        ]
+    },
+    {
+        "name": "Beatrice Helen Worsley",
+        "alma_mater": [
+            "University of Toronto",
+            "Massachusetts Institute of Technology",
+            "University of Cambridge"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Steve Wozniak",
+        "alma_mater": [
+            "University of Colorado Boulder",
+            "De Anza College",
+            "University of California, Berkeley",
+            "BSE"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jie Wu",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "William Wulf",
+        "alma_mater": [
+            "University of Illinois Urbana-Champaign",
+            "University of Virginia"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Mihalis Yannakakis",
+        "alma_mater": [
+            "National Technical University of Athens",
+            "Princeton University"
+        ],
+        "awards": [
+            "Knuth Prize"
+        ]
+    },
+    {
+        "name": "Andrew Chi-Chih Yao",
+        "alma_mater": [
+            "National Taiwan University",
+            "Harvard University",
+            "University of Illinois at Urbana–Champaign"
+        ],
+        "awards": [
+            "Pólya Prize (SIAM)",
+            "Knuth Prize",
+            "Turing Award",
+            "Kyoto Prize"
+        ]
+    },
+    {
+        "name": "John Yen",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "Santa Clara University",
+            "National Taiwan University",
+            "National Hsinchu Senior High School"
+        ],
+        "awards": [
+            "IEEE",
+            "Fellow",
+            "AAAI Senior Member"
+        ]
+    },
+    {
+        "name": "Nobuo Yoneda",
+        "alma_mater": [
+            "University of Tokyo"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Edward Yourdon",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Moti Yung",
+        "alma_mater": [
+            "Columbia University"
+        ],
+        "awards": [
+            "Computer Pioneer Award",
+            "McDowell Award",
+            "ACM Fellow",
+            "EATCS Fellow",
+            "IEEE Fellow",
+            "IACR Fellow"
+        ]
+    },
+    {
+        "name": "Lotfi Zadeh",
+        "alma_mater": [
+            "University of Tehran",
+            "Massachusetts Institute of Technology",
+            "Columbia University"
+        ],
+        "awards": [
+            "Eringen Medal",
+            "IEEE Hamming Medal",
+            "Rufus Oldenburger Medal",
+            "IEEE Medal of Honor",
+            "BBVA Foundation Frontiers of Knowledge Award",
+            "Honorary Doctorate",
+            "Tehran University",
+            "ACM Fellow",
+            "IEEE Fellow",
+            "AAAS",
+            "AAAI",
+            "National Academy of Engineering"
+        ]
+    },
+    {
+        "name": "Hans Zantema",
+        "alma_mater": [],
+        "awards": []
+    },
+    {
+        "name": "Arif Zaman",
+        "alma_mater": [
+            "Stanford University",
+            "Harvey Mudd College",
+            "Claremont Graduate University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Stanley Zdonik",
+        "alma_mater": [
+            "Massachusetts Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Hussein Zedan",
+        "alma_mater": [
+            "University of Bristol"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Shlomo Zilberstein",
+        "alma_mater": [
+            "University of California, Berkeley",
+            "Technion – Israel Institute of Technology"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Jill Zimmerman",
+        "alma_mater": [
+            "Purdue University",
+            "University of Minnesota"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "alma_mater": [
+            "Harvard University"
+        ],
+        "awards": []
+    },
+    {
+        "name": "Konrad Zuse",
+        "alma_mater": [
+            "Technical University of Berlin"
+        ],
+        "awards": [
+            "Werner von Siemens Ring",
+            "Harry H. Goode Memorial Award",
+            "George Stibitz",
+            "Wilhelm Exner Medal",
+            "Order of Merit of the Federal Republic of Germany",
+            "Computer History Museum"
+        ]
+    }
+]
